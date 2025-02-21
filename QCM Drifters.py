@@ -13,7 +13,12 @@ questions = [
         "question": "En quelle année a commencé la Première Guerre mondiale ?",
         "choices": ["A. 1912", "B. 1914", "C. 1916", "D. 1918"],
         "answer": "B"
-    }
+    },
+		{
+				"Question" : "Toyohisa Shimazu a participé à quelle célèbre bataille en 1600 ?"
+    	  "choices" : ["A. Bataille de Sekigahara , "B. Bataille de Nagashino" , "C. Bataille de Kawanakajima" , "D. Bataille de Dan-no-ura"],
+   			"answer" : "A"
+
     # Ajoutez plus de questions ici
 ]
 
