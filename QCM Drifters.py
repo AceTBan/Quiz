@@ -15,13 +15,18 @@ questions = [
         "answer": "B"
     },
    {
-        "question": Toyohisa Shimazu a participé à quelle célèbre bataille en 1600 ?",
+        "question": "Toyohisa Shimazu a participé à quelle célèbre bataille en 1600 ?",
         "choices": ["A. Bataille de Sekigahara", "B. Bataille de Nagashino", "C. Bataille de Kawanakajima", "D. Bataille de Dan-no-ura"],
         "answer": "A"
     },
    {
         "question": "Toyohisa Shimazu était membre de quel clan japonais ?",
         "choices": ["A. Clan Tokugawa", "B. Clan Shimazu", "C. Clan Oda", "D. Clan Date"],
+        "answer": "B"
+    },
+		{
+        "question": "En quelle année Toyohisa Shimazu est-il né ?",
+        "choices": ["A. 1560", "B. 1570", "C. 1580", "D. 1590"],
         "answer": "B"
     },
 
