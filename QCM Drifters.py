@@ -29,7 +29,11 @@ questions = [
         "choices": ["A. 1560", "B. 1570", "C. 1580", "D. 1590"],
         "answer": "B"
     },
-
+		{
+        "question": "Toyohisa Shimazu était le fils de quel seigneur féodal ?",
+        "choices": ["A. Shimazu Yohihisa", "B. Shimazu Iehisa", "C. Shimazu Takahisa", "D. Shimazu Tadatsune"],
+        "answer": "A"
+    },
     # Ajoutez plus de questions ici
 ]
 
