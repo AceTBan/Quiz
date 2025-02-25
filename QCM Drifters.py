@@ -34,6 +34,11 @@ questions = [
         "choices": ["A. Shimazu Yohihisa", "B. Shimazu Iehisa", "C. Shimazu Takahisa", "D. Shimazu Tadatsune"],
         "answer": "A"
     },
+		{
+        "question": "Toyohisa Shimazu a combattu pour quel camp durant la bataille de Sekigahara?",
+        "choices": ["A. Camp de l'est", "B. Camp de l'ouest", "C. Camp neutre", "D. Camp étranger"],
+        "answer": "B"
+    },
     # Ajoutez plus de questions ici
 ]
 
