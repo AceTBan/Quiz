@@ -39,6 +39,11 @@ questions = [
         "choices": ["A. Camp de l'est", "B. Camp de l'ouest", "C. Camp neutre", "D. Camp étranger"],
         "answer": "B"
     },
+		{
+        "question": "Quel est le surnom de Toyohisa Shimazu en raison de sa bravoure ?",
+        "choices": ["A. Le lion de Tosa", "B. Le tigre de Tosa", "C. Le dragon de kyushu", "D. Le serpent de Shimazu"],
+        "answer": "A"
+    },
     # Ajoutez plus de questions ici
 ]
 
