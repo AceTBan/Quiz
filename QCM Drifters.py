@@ -44,6 +44,11 @@ questions = [
         "choices": ["A. Le lion de Tosa", "B. Le tigre de Tosa", "C. Le dragon de kyushu", "D. Le serpent de Shimazu"],
         "answer": "A"
     },
+		{
+        "question": "Toyohisa Shimazu est mort à quel âge ?",
+        "choices": ["A. 30", "B. 40", "C. 50", "D. 50"],
+        "answer": "A"
+    },
     # Ajoutez plus de questions ici
 ]
 
