@@ -49,6 +49,11 @@ questions = [
         "choices": ["A. 30", "B. 40", "C. 50", "D. 50"],
         "answer": "A"
     },
+		{
+        "question": "Quel était le rôle principal de Toyohisa Shimazu au sein de son clan ?",
+        "choices": ["A. Stratége", "B. Archer", "C. Général", "D. Diplomate"],
+        "answer": "C"
+    },
     # Ajoutez plus de questions ici
 ]
 
