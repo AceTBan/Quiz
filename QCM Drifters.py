@@ -54,6 +54,12 @@ questions = [
         "choices": ["A. Stratége", "B. Archer", "C. Général", "D. Diplomate"],
         "answer": "C"
     },
+		
+		{
+        "question": "Quel clan Oda Nobunaga a-t-il dirigé au cours de sa vie ?",
+        "choices": ["A. Clan Takeda", "B. Clan Oda", "C. Clan Tokugawa", "D. Clan Date  "],
+        "answer": "B"
+    },
     # Ajoutez plus de questions ici
 ]
 
