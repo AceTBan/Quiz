@@ -14,6 +14,7 @@ questions = [
         "choices": ["A. 1912", "B. 1914", "C. 1916", "D. 1918"],
         "answer": "B"
     },
+    # Questions sur Toyohisa Shimazu
    {
         "question": "Toyohisa Shimazu a participé à quelle célèbre bataille en 1600 ?",
         "choices": ["A. Bataille de Sekigahara", "B. Bataille de Nagashino", "C. Bataille de Kawanakajima", "D. Bataille de Dan-no-ura"],
@@ -54,11 +55,16 @@ questions = [
         "choices": ["A. Stratége", "B. Archer", "C. Général", "D. Diplomate"],
         "answer": "C"
     },
-		
+		# Questions sur Oda Nobunaga
 		{
         "question": "Quel clan Oda Nobunaga a-t-il dirigé au cours de sa vie ?",
         "choices": ["A. Clan Takeda", "B. Clan Oda", "C. Clan Tokugawa", "D. Clan Date  "],
         "answer": "B"
+    },
+    {
+        "question": "En quelle année Oda Nobunaga a-t-il pris le contrôle de Kyoto ?",
+        "choices": ["A. 1568", "B. 1572", "C. 1580", "D. 1582"],
+        "answer": "A"
     },
     # Ajoutez plus de questions ici
 ]
