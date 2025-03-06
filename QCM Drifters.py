@@ -66,6 +66,11 @@ questions = [
         "choices": ["A. 1568", "B. 1572", "C. 1580", "D. 1582"],
         "answer": "A"
     },
+		{
+           "question": "Quel est le célèbre château construit par Oda Nobunaga qui symbolise sa puissance ?",
+           "choices": ["A. Château d’Himeji", "B. Château d’Azuchi", "C. Château de Nagoya", "D. Château de Matsumoto"],
+           "answer": "B"
+       },
     # Ajoutez plus de questions ici
 ]
 
