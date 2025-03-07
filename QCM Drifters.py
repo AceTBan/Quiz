@@ -71,6 +71,11 @@ questions = [
            "choices": ["A. Château d’Himeji", "B. Château d’Azuchi", "C. Château de Nagoya", "D. Château de Matsumoto"],
            "answer": "B"
        },
+				{
+            "question": "Oda Nobunaga est souvent associé à quelle période historique japonaise ?",
+            "choices": ["A. Période Heian", "B. Période Sengoku", "C. Période Kamakura", "D. Période Edo"],
+            "answer": "B"
+        },
     # Ajoutez plus de questions ici
 ]
 
