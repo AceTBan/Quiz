@@ -76,6 +76,11 @@ questions = [
             "choices": ["A. Période Heian", "B. Période Sengoku", "C. Période Kamakura", "D. Période Edo"],
             "answer": "B"
         },
+				{
+            "question": "Quel célèbre général et vassal a continué l'unification du Japon après la mort d'Oda Nobunaga ?",
+            "choices": ["A. Tokugawa Ieyasu", "B. Takeda Shingen", "C. Toyotomi Hideyoshi", "D. Uesugi Kenshin"],
+            "answer": "C"
+        },
     # Ajoutez plus de questions ici
 ]
 
