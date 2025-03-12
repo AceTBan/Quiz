@@ -81,6 +81,11 @@ questions = [
             "choices": ["A. Tokugawa Ieyasu", "B. Takeda Shingen", "C. Toyotomi Hideyoshi", "D. Uesugi Kenshin"],
             "answer": "C"
         },
+				{
+            "question": "Oda Nobunaga a utilisé une nouvelle technologie militaire décisive lors de la bataille de Nagashino en 1575. Laquelle ?",
+            "choices": ["A. Les arquebuses", "B. Les canons", "C. Les arcs à longue portée", "D. Les navires blindés"],
+            "answer": "A"
+        },
     # Ajoutez plus de questions ici
 ]
 
