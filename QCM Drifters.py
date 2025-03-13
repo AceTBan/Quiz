@@ -86,6 +86,11 @@ questions = [
             "choices": ["A. Les arquebuses", "B. Les canons", "C. Les arcs à longue portée", "D. Les navires blindés"],
             "answer": "A"
         },
+				{
+            "question": "Quel était le surnom souvent attribué à Oda Nobunaga pour son style de leadership ?",
+            "choices": ["A. Le Tigre de Kai", "B. Le Démon de la guerre", "C. Le Roi démon du sixième ciel", "D. Le Dragon de Yamato"],
+            "answer": "C"
+        },
     # Ajoutez plus de questions ici
 ]
 
