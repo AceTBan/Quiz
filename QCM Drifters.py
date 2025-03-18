@@ -67,30 +67,37 @@ questions = [
         "answer": "A"
     },
 		{
-           "question": "Quel est le célèbre château construit par Oda Nobunaga qui symbolise sa puissance ?",
-           "choices": ["A. Château d’Himeji", "B. Château d’Azuchi", "C. Château de Nagoya", "D. Château de Matsumoto"],
-           "answer": "B"
-       },
-				{
-            "question": "Oda Nobunaga est souvent associé à quelle période historique japonaise ?",
-            "choices": ["A. Période Heian", "B. Période Sengoku", "C. Période Kamakura", "D. Période Edo"],
-            "answer": "B"
-        },
-				{
-            "question": "Quel célèbre général et vassal a continué l'unification du Japon après la mort d'Oda Nobunaga ?",
-            "choices": ["A. Tokugawa Ieyasu", "B. Takeda Shingen", "C. Toyotomi Hideyoshi", "D. Uesugi Kenshin"],
-            "answer": "C"
-        },
-				{
-            "question": "Oda Nobunaga a utilisé une nouvelle technologie militaire décisive lors de la bataille de Nagashino en 1575. Laquelle ?",
-            "choices": ["A. Les arquebuses", "B. Les canons", "C. Les arcs à longue portée", "D. Les navires blindés"],
-            "answer": "A"
-        },
-				{
-            "question": "Quel était le surnom souvent attribué à Oda Nobunaga pour son style de leadership ?",
-            "choices": ["A. Le Tigre de Kai", "B. Le Démon de la guerre", "C. Le Roi démon du sixième ciel", "D. Le Dragon de Yamato"],
-            "answer": "C"
-        },
+         "question": "Quel est le célèbre château construit par Oda Nobunaga qui symbolise sa puissance ?",
+         "choices": ["A. Château d’Himeji", "B. Château d’Azuchi", "C. Château de Nagoya", "D. Château de Matsumoto"],
+         "answer": "B"
+	  },
+		{
+          "question": "Oda Nobunaga est souvent associé à quelle période historique japonaise ?",
+          "choices": ["A. Période Heian", "B. Période Sengoku", "C. Période Kamakura", "D. Période Edo"],
+          "answer": "B"
+    },
+		{
+          "question": "Quel célèbre général et vassal a continué l'unification du Japon après la mort d'Oda Nobunaga ?",
+          "choices": ["A. Tokugawa Ieyasu", "B. Takeda Shingen", "C. Toyotomi Hideyoshi", "D. Uesugi Kenshin"],
+          "answer": "C"
+    },
+		{
+          "question": "Oda Nobunaga a utilisé une nouvelle technologie militaire décisive lors de la bataille de Nagashino en 1575. Laquelle ?",
+          "choices": ["A. Les arquebuses", "B. Les canons", "C. Les arcs à longue portée", "D. Les navires blindés"],
+          "answer": "A"
+    },
+		{
+          "question": "Quel était le surnom souvent attribué à Oda Nobunaga pour son style de leadership ?",
+          "choices": ["A. Le Tigre de Kai", "B. Le Démon de la guerre", "C. Le Roi démon du sixième ciel", "D. Le Dragon de Yamato"],
+          "answer": "C"
+    },
+		{
+          "question": "Quelle rébellion religieuse Oda Nobunaga a-t-il écrasé pour asseoir son pouvoir ?",
+          "choices": ["A. Rébellion Ikko-Ikki", "B. Rébellion Meiji", "C. Rébellion Boshin", "D. Rébellion Genpei"],
+          "answer": "A"
+    },
+
+
     # Ajoutez plus de questions ici
 ]
 
