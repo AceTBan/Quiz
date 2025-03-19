@@ -96,6 +96,11 @@ questions = [
           "choices": ["A. Rébellion Ikko-Ikki", "B. Rébellion Meiji", "C. Rébellion Boshin", "D. Rébellion Genpei"],
           "answer": "A"
     },
+		{
+          "question": "Qui a trahi et forcé Oda Nobunaga à se suicider au temple Honnō-ji en 1582 ?",
+          "choices": ["A. Akechi Mitsuhide", "B. Tokugawa Ieyasu", "C. Takeda Katsuyori", "D. Uesugi Kenshin"],
+          "answer": "A"
+        },
 
 
     # Ajoutez plus de questions ici
