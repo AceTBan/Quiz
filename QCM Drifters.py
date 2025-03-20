@@ -100,7 +100,12 @@ questions = [
           "question": "Qui a trahi et forcé Oda Nobunaga à se suicider au temple Honnō-ji en 1582 ?",
           "choices": ["A. Akechi Mitsuhide", "B. Tokugawa Ieyasu", "C. Takeda Katsuyori", "D. Uesugi Kenshin"],
           "answer": "A"
-        },
+    },
+		{
+          "question": "Quel proverbe célèbre Oda Nobunaga représente-t-il dans l'histoire japonaise, lié à sa détermination ?",
+          "choices": ["A. “Celui qui plante une graine récolte son fruit.”", "B. “Si l’oiseau ne chante pas, force-le à chanter.”", "C. “L’unité est la clé du succès.”", "D. “Le temps attend les courageux.”"],
+          "answer": "B"
+    },
 
 
     # Ajoutez plus de questions ici
