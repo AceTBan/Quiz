@@ -106,7 +106,11 @@ questions = [
           "choices": ["A. “Celui qui plante une graine récolte son fruit.”", "B. “Si l’oiseau ne chante pas, force-le à chanter.”", "C. “L’unité est la clé du succès.”", "D. “Le temps attend les courageux.”"],
           "answer": "B"
     },
-
+{
+            "question": "Nasu Yoichi  Suketaka est célèbre pour avoir abattu une cible exceptionnelle lors de quelle bataille ?",
+            "choices": ["A. Bataille de Dan-no-ura", "B. Bataille de Uji", "C. Bataille de Yashima", "D. Bataille de Kawanakajima"],
+            "answer": "C"
+        },
 
     # Ajoutez plus de questions ici
 ]
