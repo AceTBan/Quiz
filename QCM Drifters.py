@@ -111,6 +111,11 @@ questions = [
             "choices": ["A. Bataille de Dan-no-ura", "B. Bataille de Uji", "C. Bataille de Yashima", "D. Bataille de Kawanakajima"],
             "answer": "C"
         },
+{
+            "question": "Quelle était la cible légendaire que Nasu Yoichi Suketaka a abattue lors de la bataille de Yashima ?",
+            "choices": ["A. Un cerf", "B. Un drapeau", "C. Un éventail", "D. Un bateau"],
+            "answer": "C"
+        },
 
     # Ajoutez plus de questions ici
 ]
