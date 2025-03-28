@@ -116,7 +116,11 @@ questions = [
             "choices": ["A. Un cerf", "B. Un drapeau", "C. Un éventail", "D. Un bateau"],
             "answer": "C"
         },
-
+{
+            "question": "À quel clan Nasu Yoichi Suketaka était-il affilié ?",
+            "choices": ["A. Clan Taira", "B. Clan Minamoto", "C. Clan Fujiwara", "D. Clan Hojo"],
+            "answer": "B"
+        },
     # Ajoutez plus de questions ici
 ]
 
