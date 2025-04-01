@@ -14,6 +14,7 @@ questions = [
         "choices": ["A. 1912", "B. 1914", "C. 1916", "D. 1918"],
         "answer": "B"
     },
+
     # Questions sur Toyohisa Shimazu
    {
         "question": "Toyohisa Shimazu a participé à quelle célèbre bataille en 1600 ?",
@@ -55,6 +56,7 @@ questions = [
         "choices": ["A. Stratége", "B. Archer", "C. Général", "D. Diplomate"],
         "answer": "C"
     },
+
 		# Questions sur Oda Nobunaga
 		{
         "question": "Quel clan Oda Nobunaga a-t-il dirigé au cours de sa vie ?",
@@ -106,27 +108,33 @@ questions = [
           "choices": ["A. “Celui qui plante une graine récolte son fruit.”", "B. “Si l’oiseau ne chante pas, force-le à chanter.”", "C. “L’unité est la clé du succès.”", "D. “Le temps attend les courageux.”"],
           "answer": "B"
     },
+
 		# Questions sur Nasu Yoichi Suketaka
-{
+		{
             "question": "Nasu Yoichi  Suketaka est célèbre pour avoir abattu une cible exceptionnelle lors de quelle bataille ?",
             "choices": ["A. Bataille de Dan-no-ura", "B. Bataille de Uji", "C. Bataille de Yashima", "D. Bataille de Kawanakajima"],
             "answer": "C"
-        },
-{
+    },
+		{
             "question": "Quelle était la cible légendaire que Nasu Yoichi Suketaka a abattue lors de la bataille de Yashima ?",
             "choices": ["A. Un cerf", "B. Un drapeau", "C. Un éventail", "D. Un bateau"],
             "answer": "C"
-        },
-{
+    },
+		{
             "question": "À quel clan Nasu Yoichi Suketaka était-il affilié ?",
             "choices": ["A. Clan Taira", "B. Clan Minamoto", "C. Clan Fujiwara", "D. Clan Hojo"],
             "answer": "B"
-        },
-{
+    },
+		{
             "question": "En quelle année s'est déroulée la bataille de Yashima ?",
             "choices": ["A. 1180", "B. 1182", "C. 1185", "D. 1187"],
             "answer": "C"
-        },
+    },
+		{
+            "question": "Quel était le rôle principal de Nasu Yoichi Suketaka dans la guerre de Genpei ?",
+            "choices": ["A. Stratège", "B. Archer", "C. Cavalier", "D. Diplomate"],
+            "answer": "B"
+    },
     # Ajoutez plus de questions ici
 ]
 
