@@ -135,6 +135,11 @@ questions = [
             "choices": ["A. Stratège", "B. Archer", "C. Cavalier", "D. Diplomate"],
             "answer": "B"
     },
+		{
+            "question": "Quel texte historique raconte les exploits de Nasu Yoichi Suketaka ?",
+            "choices": ["A. Kojiki", "B. Nihon Shoki", "C. Heike Monogatari", "D. Genji Monogatari"],
+            "answer": "C"
+    },
     # Ajoutez plus de questions ici
 ]
 
