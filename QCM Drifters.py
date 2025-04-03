@@ -140,6 +140,11 @@ questions = [
             "choices": ["A. Kojiki", "B. Nihon Shoki", "C. Heike Monogatari", "D. Genji Monogatari"],
             "answer": "C"
     },
+		{
+            "question": "Quel âge avait Nasu Yoichi Suketaka lorsqu'il a accompli son exploit légendaire ?",
+            "choices": ["A. 16 ans", "B. 18 ans", "C. 20 ans", "D. 22 ans"],
+            "answer": "A"
+    },
     # Ajoutez plus de questions ici
 ]
 
