@@ -145,6 +145,11 @@ questions = [
             "choices": ["A. 16 ans", "B. 18 ans", "C. 20 ans", "D. 22 ans"],
             "answer": "A"
     },
+		{
+            "question": "Après la guerre de Genpei, quel titre a été accordé à Nasu Yoichi Suketaka ?",
+            "choices": ["A. Daimyo de Tottori", "B. Shogun", "C. Gouverneur de Kyoto", "D. Moine bouddhiste"],
+            "answer": "A"
+    },
     # Ajoutez plus de questions ici
 ]
 
