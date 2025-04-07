@@ -150,6 +150,11 @@ questions = [
             "choices": ["A. Daimyo de Tottori", "B. Shogun", "C. Gouverneur de Kyoto", "D. Moine bouddhiste"],
             "answer": "A"
     },
+		{
+            "question": "Quel était le but de l'éventail placé par les Taira lors de la bataille de Yashima ?",
+            "choices": ["A. Provoquer les Minamoto", "B. Protéger les navires", "C. Signaler une trêve", "D. Décorer les bateaux"],
+            "answer": "A"
+        },
     # Ajoutez plus de questions ici
 ]
 
