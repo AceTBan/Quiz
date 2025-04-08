@@ -155,6 +155,13 @@ questions = [
             "choices": ["A. Provoquer les Minamoto", "B. Protéger les navires", "C. Signaler une trêve", "D. Décorer les bateaux"],
             "answer": "A"
         },
+		{
+            "question": "Où Nasu Yoichi Suketaka est-il supposé être mort ?",
+            "choices": ["A. Kyoto", "B. Kobe", "C. Tokyo", "D. Osaka"],
+            "answer": "B"
+        }
+    ]
+}
     # Ajoutez plus de questions ici
 ]
 
