@@ -155,18 +155,24 @@ questions = [
             "choices": ["A. Provoquer les Minamoto", "B. Protéger les navires", "C. Signaler une trêve", "D. Décorer les bateaux"],
             "answer": "A"
         },
-		{
+				{
             "question": "Où Nasu Yoichi Suketaka est-il supposé être mort ?",
             "choices": ["A. Kyoto", "B. Kobe", "C. Tokyo", "D. Osaka"],
             "answer": "B"
         },
+
 #Hannibal Barca 
-{
+				{
     "questions": [
         {
             "question": "Hannibal Barca est célèbre pour avoir traversé quelle chaîne de montagnes avec ses éléphants ?",
             "choices": ["A. Les Andes", "B. Les Pyrénées", "C. Les Alpes", "D. Les Apennins"],
             "answer": "C"
+        },
+				{
+            "question": "Quel empire Hannibal Barca a-t-il combattu durant les guerres puniques ?",
+            "choices": ["A. L'Égypte", "B. La Grèce", "C. La Perse", "D. Rome"],
+            "answer": "D"
         },
     ]
 }
