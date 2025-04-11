@@ -174,6 +174,11 @@ questions = [
             "choices": ["A. L'Égypte", "B. La Grèce", "C. La Perse", "D. Rome"],
             "answer": "D"
         },
+{
+            "question": "Quelle bataille célèbre Hannibal a-t-il remportée contre les Romains en 216 avant J.-C. ?",
+            "choices": ["A. Bataille du Lac Trasimène", "B. Bataille de Zama", "C. Bataille de Cannes", "D. Bataille d'Agrigente"],
+            "answer": "C"
+        },
     ]
 }
     # Ajoutez plus de questions ici
