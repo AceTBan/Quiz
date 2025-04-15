@@ -179,6 +179,11 @@ questions = [
             "choices": ["A. Bataille du Lac Trasimène", "B. Bataille de Zama", "C. Bataille de Cannes", "D. Bataille d'Agrigente"],
             "answer": "C"
         },
+{
+            "question": "À quel âge Hannibal Barca est-il devenu commandant en chef de l'armée carthaginoise ?",
+            "choices": ["A. 18 ans", "B. 21 ans", "C. 25 ans", "D. 30 ans"],
+            "answer": "B"
+        },
     ]
 }
     # Ajoutez plus de questions ici
