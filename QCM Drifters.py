@@ -184,6 +184,11 @@ questions = [
             "choices": ["A. 18 ans", "B. 21 ans", "C. 25 ans", "D. 30 ans"],
             "answer": "B"
         },
+{
+            "question": "Dans quel pays Hannibal Barca a-t-il trouvé refuge après la chute de Carthage ?",
+            "choices": ["A. Égypte", "B. Perse", "C. Syrie", "D. Arménie"],
+            "answer": "C"
+        },
     ]
 }
     # Ajoutez plus de questions ici
