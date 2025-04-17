@@ -189,6 +189,11 @@ questions = [
             "choices": ["A. Égypte", "B. Perse", "C. Syrie", "D. Arménie"],
             "answer": "C"
         },
+{
+            "question": "Combien d'éléphants Hannibal aurait-il amenés lors de sa traversée des Alpes ?",
+            "choices": ["A. 37", "B. 100", "C. 50", "D. 23"],
+            "answer": "A"
+        },
     ]
 }
     # Ajoutez plus de questions ici
