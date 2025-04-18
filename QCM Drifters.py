@@ -194,6 +194,11 @@ questions = [
             "choices": ["A. 37", "B. 100", "C. 50", "D. 23"],
             "answer": "A"
         },
+{
+            "question": "Quel est le nom du père de Hannibal qui lui a inculqué la haine envers Rome ?",
+            "choices": ["A. Hamilcar Barca", "B. Hasdrubal le Beau", "C. Himilcon", "D. Magon Barca"],
+            "answer": "A"
+        },
     ]
 }
     # Ajoutez plus de questions ici
