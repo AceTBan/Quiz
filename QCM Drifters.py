@@ -199,6 +199,11 @@ questions = [
             "choices": ["A. Hamilcar Barca", "B. Hasdrubal le Beau", "C. Himilcon", "D. Magon Barca"],
             "answer": "A"
         },
+{
+            "question": "Quelle bataille a marqué la défaite finale de Hannibal contre Rome ?",
+            "choices": ["A. Bataille de Cannes", "B. Bataille de Zama", "C. Bataille du Lac Trasimène", "D. Bataille de Metaurus"],
+            "answer": "B"
+        },
     ]
 }
     # Ajoutez plus de questions ici
