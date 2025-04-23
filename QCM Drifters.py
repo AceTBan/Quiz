@@ -204,6 +204,11 @@ questions = [
             "choices": ["A. Bataille de Cannes", "B. Bataille de Zama", "C. Bataille du Lac Trasimène", "D. Bataille de Metaurus"],
             "answer": "B"
         },
+{
+            "question": "Quel général romain a vaincu Hannibal lors de la bataille de Zama ?",
+            "choices": ["A. Fabius Maximus", "B. Marcus Agrippa", "C. Publius Scipion l'Africain", "D. Lucius Cornelius Sulla"],
+            "answer": "C"
+        },
     ]
 }
     # Ajoutez plus de questions ici
