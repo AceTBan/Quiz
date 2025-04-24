@@ -209,6 +209,11 @@ questions = [
             "choices": ["A. Fabius Maximus", "B. Marcus Agrippa", "C. Publius Scipion l'Africain", "D. Lucius Cornelius Sulla"],
             "answer": "C"
         },
+{
+            "question": "Hannibal Barca appartient à quelle civilisation antique ?",
+            "choices": ["A. Les Étrusques", "B. Les Grecs", "C. Les Phéniciens", "D. Les Carthaginois"],
+            "answer": "D"
+        },
     ]
 }
     # Ajoutez plus de questions ici
