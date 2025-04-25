@@ -214,6 +214,15 @@ questions = [
             "choices": ["A. Les Étrusques", "B. Les Grecs", "C. Les Phéniciens", "D. Les Carthaginois"],
             "answer": "D"
         },
+#Sundance kid 
+
+{
+    "questions": [
+        {
+            "question": "Quel était le vrai nom de Sundance Kid ?",
+            "choices": ["A. Harry Alonzo Longabaugh", "B. Robert Leroy Parker", "C. Harvey Logan", "D. Ben Kilpatrick"],
+            "answer": "A"
+        },
     ]
 }
     # Ajoutez plus de questions ici
