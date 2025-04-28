@@ -223,6 +223,11 @@ questions = [
             "choices": ["A. Harry Alonzo Longabaugh", "B. Robert Leroy Parker", "C. Harvey Logan", "D. Ben Kilpatrick"],
             "answer": "A"
         },
+{
+            "question": "Dans quel gang Sundance Kid était-il membre ?",
+            "choices": ["A. Dalton Gang", "B. James-Younger Gang", "C. Wild Bunch", "D. Hole-in-the-Wall Gang"],
+            "answer": "C"
+        },
     ]
 }
     # Ajoutez plus de questions ici
