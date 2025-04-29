@@ -228,6 +228,11 @@ questions = [
             "choices": ["A. Dalton Gang", "B. James-Younger Gang", "C. Wild Bunch", "D. Hole-in-the-Wall Gang"],
             "answer": "C"
         },
+{
+            "question": "Sundance Kid a été emprisonné pour la première fois pour quel crime ?",
+            "choices": ["A. Braquage de banque", "B. Vol de train", "C. Vol de cheval", "D. Meurtre"],
+            "answer": "C"
+        },
     ]
 }
     # Ajoutez plus de questions ici
