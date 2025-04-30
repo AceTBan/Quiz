@@ -233,6 +233,11 @@ questions = [
             "choices": ["A. Braquage de banque", "B. Vol de train", "C. Vol de cheval", "D. Meurtre"],
             "answer": "C"
         },
+{
+            "question": "Avec qui Sundance Kid a-t-il formé un duo célèbre ?",
+            "choices": ["A. Jesse James", "B. Billy the Kid", "C. Butch Cassidy", "D. Kid Curry"],
+            "answer": "C"
+        },
     ]
 }
     # Ajoutez plus de questions ici
