@@ -238,6 +238,11 @@ questions = [
             "choices": ["A. Jesse James", "B. Billy the Kid", "C. Butch Cassidy", "D. Kid Curry"],
             "answer": "C"
         },
+{
+            "question": "Où Sundance Kid et Butch Cassidy se sont-ils réfugiés pour échapper aux détectives Pinkerton ?",
+            "choices": ["A. Argentine", "B. Mexique", "C. Canada", "D. Bolivie"],
+            "answer": "D"
+        },
     ]
 }
     # Ajoutez plus de questions ici
