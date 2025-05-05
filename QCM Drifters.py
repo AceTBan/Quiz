@@ -243,6 +243,11 @@ questions = [
             "choices": ["A. Argentine", "B. Mexique", "C. Canada", "D. Bolivie"],
             "answer": "D"
         },
+{
+            "question": "Quelle était la spécialité de Sundance Kid au sein du gang Wild Bunch ?",
+            "choices": ["A. Stratège", "B. Tireur d'élite", "C. Cavalier", "D. Dynamiteur"],
+            "answer": "B"
+        },
     ]
 }
     # Ajoutez plus de questions ici
