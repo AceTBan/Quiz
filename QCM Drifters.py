@@ -248,6 +248,11 @@ questions = [
             "choices": ["A. Stratège", "B. Tireur d'élite", "C. Cavalier", "D. Dynamiteur"],
             "answer": "B"
         },
+{
+            "question": "En quelle année Sundance Kid est-il présumé mort ?",
+            "choices": ["A. 1906", "B. 1907", "C. 1908", "D. 1909"],
+            "answer": "C"
+        },
     ]
 }
     # Ajoutez plus de questions ici
