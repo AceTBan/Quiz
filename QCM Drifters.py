@@ -253,6 +253,11 @@ questions = [
             "choices": ["A. 1906", "B. 1907", "C. 1908", "D. 1909"],
             "answer": "C"
         },
+{
+            "question": "Quel était le surnom de Sundance Kid avant de rejoindre le gang Wild Bunch ?",
+            "choices": ["A. The Tall Texan", "B. The Kid", "C. The Sundance Wrangler", "D. Aucun surnom"],
+            "answer": "D"
+        },
     ]
 }
     # Ajoutez plus de questions ici
