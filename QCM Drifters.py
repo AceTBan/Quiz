@@ -258,6 +258,11 @@ questions = [
             "choices": ["A. The Tall Texan", "B. The Kid", "C. The Sundance Wrangler", "D. Aucun surnom"],
             "answer": "D"
         },
+{
+            "question": "Quel détective célèbre a poursuivi Sundance Kid et son gang ?",
+            "choices": ["A. Allan Pinkerton", "B. Wyatt Earp", "C. Bat Masterson", "D. Pat Garrett"],
+            "answer": "A"
+        },
     ]
 }
     # Ajoutez plus de questions ici
