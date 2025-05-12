@@ -263,6 +263,11 @@ questions = [
             "choices": ["A. Allan Pinkerton", "B. Wyatt Earp", "C. Bat Masterson", "D. Pat Garrett"],
             "answer": "A"
         },
+{
+            "question": "Quel film célèbre raconte l'histoire de Sundance Kid et Butch Cassidy ?",
+            "choices": ["A. The Wild Bunch", "B. Butch Cassidy and the Sundance Kid", "C. True Grit", "D. Unforgiven"],
+            "answer": "B"
+        },
     ]
 }
     # Ajoutez plus de questions ici
