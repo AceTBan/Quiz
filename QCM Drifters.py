@@ -268,6 +268,14 @@ questions = [
             "choices": ["A. The Wild Bunch", "B. Butch Cassidy and the Sundance Kid", "C. True Grit", "D. Unforgiven"],
             "answer": "B"
         },
+# Jeanne d'Arc 
+{
+    "questions": [
+        {
+            "question": "En quelle année Jeanne d'Arc est-elle née ?",
+            "choices": ["A. 1402", "B. 1412", "C. 1422", "D. 1432"],
+            "answer": "B"
+        },
     ]
 }
     # Ajoutez plus de questions ici
