@@ -276,6 +276,11 @@ questions = [
             "choices": ["A. 1402", "B. 1412", "C. 1422", "D. 1432"],
             "answer": "B"
         },
+{
+            "question": "Quel surnom est souvent attribué à Jeanne d'Arc ?",
+            "choices": ["A. La Guerrière de France", "B. La Sainte de Domrémy", "C. La Pucelle d'Orléans", "D. La Dame de Reims"],
+            "answer": "C"
+        },
     ]
 }
     # Ajoutez plus de questions ici
