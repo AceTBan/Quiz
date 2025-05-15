@@ -281,6 +281,11 @@ questions = [
             "choices": ["A. La Guerrière de France", "B. La Sainte de Domrémy", "C. La Pucelle d'Orléans", "D. La Dame de Reims"],
             "answer": "C"
         },
+{
+            "question": "Quel roi Jeanne d'Arc a-t-elle aidé à monter sur le trône ?",
+            "choices": ["A. Charles VI", "B. Louis XI", "C. Charles VII", "D. Philippe le Bon"],
+            "answer": "C"
+        },
     ]
 }
     # Ajoutez plus de questions ici
