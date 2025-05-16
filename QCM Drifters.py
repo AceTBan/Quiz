@@ -286,6 +286,11 @@ questions = [
             "choices": ["A. Charles VI", "B. Louis XI", "C. Charles VII", "D. Philippe le Bon"],
             "answer": "C"
         },
+{
+            "question": "Quelle bataille Jeanne d'Arc a-t-elle remportée en 1429, changeant le cours de la guerre de Cent Ans ?",
+            "choices": ["A. Bataille de Patay", "B. Bataille de Crécy", "C. Bataille d'Azincourt", "D. Bataille de Poitiers"],
+            "answer": "A"
+        },
     ]
 }
     # Ajoutez plus de questions ici
