@@ -291,6 +291,11 @@ questions = [
             "choices": ["A. Bataille de Patay", "B. Bataille de Crécy", "C. Bataille d'Azincourt", "D. Bataille de Poitiers"],
             "answer": "A"
         },
+{
+            "question": "Dans quelle ville Jeanne d'Arc a-t-elle été capturée en 1430 ?",
+            "choices": ["A. Paris", "B. Compiègne", "C. Rouen", "D. Orléans"],
+            "answer": "B"
+        },
     ]
 }
     # Ajoutez plus de questions ici
