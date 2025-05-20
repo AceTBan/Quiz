@@ -296,6 +296,11 @@ questions = [
             "choices": ["A. Paris", "B. Compiègne", "C. Rouen", "D. Orléans"],
             "answer": "B"
         },
+{
+            "question": "Quel tribunal a condamné Jeanne d'Arc à mort ?",
+            "choices": ["A. Tribunal royal", "B. Tribunal militaire", "C. Tribunal ecclésiastique", "D. Tribunal populaire"],
+            "answer": "C"
+        },
     ]
 }
     # Ajoutez plus de questions ici
