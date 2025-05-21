@@ -301,6 +301,11 @@ questions = [
             "choices": ["A. Tribunal royal", "B. Tribunal militaire", "C. Tribunal ecclésiastique", "D. Tribunal populaire"],
             "answer": "C"
         },
+{
+            "question": "Quel était le principal chef militaire anglais contre lequel Jeanne d'Arc a combattu ?",
+            "choices": ["A. Richard III", "B. Henri VI", "C. John Talbot", "D. Édouard IV"],
+            "answer": "C"
+        },
     ]
 }
     # Ajoutez plus de questions ici
