@@ -306,6 +306,11 @@ questions = [
             "choices": ["A. Richard III", "B. Henri VI", "C. John Talbot", "D. Édouard IV"],
             "answer": "C"
         },
+{
+            "question": "Quel était le motif officiel de la condamnation de Jeanne d'Arc ?",
+            "choices": ["A. Trahison", "B. Sorcellerie", "C. Hérésie", "D. Espionnage"],
+            "answer": "C"
+        },
     ]
 }
     # Ajoutez plus de questions ici
