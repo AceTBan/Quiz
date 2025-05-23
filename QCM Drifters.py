@@ -311,6 +311,11 @@ questions = [
             "choices": ["A. Trahison", "B. Sorcellerie", "C. Hérésie", "D. Espionnage"],
             "answer": "C"
         },
+{
+            "question": "En quelle année Jeanne d'Arc a-t-elle été canonisée ?",
+            "choices": ["A. 1804", "B. 1909", "C. 1920", "D. 1945"],
+            "answer": "C"
+        },
     ]
 }
     # Ajoutez plus de questions ici
