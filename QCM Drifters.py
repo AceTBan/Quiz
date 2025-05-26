@@ -316,6 +316,12 @@ questions = [
             "choices": ["A. 1804", "B. 1909", "C. 1920", "D. 1945"],
             "answer": "C"
         },
+{
+            "question": "Dans quelle ville Jeanne d'Arc a-t-elle été brûlée vive ?",
+            "choices": ["A. Paris", "B. Reims", "C. Rouen", "D. Orléans"],
+            "answer": "C"
+        },
+
     ]
 }
     # Ajoutez plus de questions ici
