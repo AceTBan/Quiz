@@ -321,6 +321,14 @@ questions = [
             "choices": ["A. Paris", "B. Reims", "C. Rouen", "D. Orléans"],
             "answer": "C"
         },
+# gilles de rais 
+{
+    "questions": [
+        {
+            "question": "Quel était le titre de noblesse de Gilles de Rais ?",
+            "choices": ["A. Duc de Bretagne", "B. Baron de Retz", "C. Comte d'Anjou", "D. Prince de Poitiers"],
+            "answer": "B"
+        },
 
     ]
 }
