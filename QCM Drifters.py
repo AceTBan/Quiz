@@ -329,6 +329,11 @@ questions = [
             "choices": ["A. Duc de Bretagne", "B. Baron de Retz", "C. Comte d'Anjou", "D. Prince de Poitiers"],
             "answer": "B"
         },
+{
+            "question": "Gilles de Rais était un compagnon d'armes de quelle figure historique ?",
+            "choices": ["A. Charles VII", "B. Jeanne d'Arc", "C. Louis XI", "D. Bertrand du Guesclin"],
+            "answer": "B"
+        },
 
     ]
 }
