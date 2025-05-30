@@ -334,6 +334,11 @@ questions = [
             "choices": ["A. Charles VII", "B. Jeanne d'Arc", "C. Louis XI", "D. Bertrand du Guesclin"],
             "answer": "B"
         },
+{
+            "question": "Dans quelle guerre Gilles de Rais a-t-il combattu ?",
+            "choices": ["A. Guerre de Cent Ans", "B. Guerre des Deux Roses", "C. Guerre de Succession de Bretagne", "D. Guerre de Cent Jours"],
+            "answer": "A"
+        },
 
     ]
 }
