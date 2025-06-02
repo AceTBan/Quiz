@@ -339,6 +339,11 @@ questions = [
             "choices": ["A. Guerre de Cent Ans", "B. Guerre des Deux Roses", "C. Guerre de Succession de Bretagne", "D. Guerre de Cent Jours"],
             "answer": "A"
         },
+{
+            "question": "Quel roi de France a nommé Gilles de Rais maréchal de France ?",
+            "choices": ["A. Charles VI", "B. Charles VII", "C. Louis XI", "D. Philippe le Bon"],
+            "answer": "B"
+        },
 
     ]
 }
