@@ -344,6 +344,11 @@ questions = [
             "choices": ["A. Charles VI", "B. Charles VII", "C. Louis XI", "D. Philippe le Bon"],
             "answer": "B"
         },
+{
+            "question": "Quel château était l'une des principales résidences de Gilles de Rais ?",
+            "choices": ["A. Château de Chambord", "B. Château de Tiffauges", "C. Château de Vincennes", "D. Château de Blois"],
+            "answer": "B"
+        },
 
     ]
 }
