@@ -349,6 +349,11 @@ questions = [
             "choices": ["A. Château de Chambord", "B. Château de Tiffauges", "C. Château de Vincennes", "D. Château de Blois"],
             "answer": "B"
         },
+{
+            "question": "Quel célèbre conte est inspiré des crimes de Gilles de Rais ?",
+            "choices": ["A. Le Petit Chaperon Rouge", "B. La Belle au bois dormant", "C. Barbe Bleue", "D. Le Chat Botté"],
+            "answer": "C"
+        },
 
     ]
 }
