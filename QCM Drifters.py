@@ -354,6 +354,11 @@ questions = [
             "choices": ["A. Le Petit Chaperon Rouge", "B. La Belle au bois dormant", "C. Barbe Bleue", "D. Le Chat Botté"],
             "answer": "C"
         },
+{
+            "question": "En quelle année Gilles de Rais a-t-il été exécuté ?",
+            "choices": ["A. 1435", "B. 1440", "C. 1450", "D. 1465"],
+            "answer": "B"
+        },
 
     ]
 }
