@@ -359,6 +359,11 @@ questions = [
             "choices": ["A. 1435", "B. 1440", "C. 1450", "D. 1465"],
             "answer": "B"
         },
+{
+            "question": "Quel type de crime Gilles de Rais a-t-il été accusé d'avoir commis ?",
+            "choices": ["A. Trahison", "B. Sorcellerie", "C. Meurtres et abus d'enfants", "D. Espionnage"],
+            "answer": "C"
+        },
 
     ]
 }
