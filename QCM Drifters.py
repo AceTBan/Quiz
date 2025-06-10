@@ -364,6 +364,11 @@ questions = [
             "choices": ["A. Trahison", "B. Sorcellerie", "C. Meurtres et abus d'enfants", "D. Espionnage"],
             "answer": "C"
         },
+{
+            "question": "Quel tribunal a jugé Gilles de Rais ?",
+            "choices": ["A. Tribunal royal", "B. Tribunal militaire", "C. Tribunal ecclésiastique", "D. Tribunal populaire"],
+            "answer": "C"
+        },
 
     ]
 }
