@@ -369,6 +369,11 @@ questions = [
             "choices": ["A. Tribunal royal", "B. Tribunal militaire", "C. Tribunal ecclésiastique", "D. Tribunal populaire"],
             "answer": "C"
         },
+{
+            "question": "Dans quelle ville Gilles de Rais a-t-il été exécuté ?",
+            "choices": ["A. Paris", "B. Nantes", "C. Orléans", "D. Bordeaux"],
+            "answer": "B"
+        }
 
     ]
 }
