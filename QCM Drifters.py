@@ -374,6 +374,14 @@ questions = [
             "choices": ["A. Paris", "B. Nantes", "C. Orléans", "D. Bordeaux"],
             "answer": "B"
         }
+# Akechi Mitsubishi 
+{
+    "questions": [
+        {
+            "question": "Akechi Mitsuhide est célèbre pour avoir trahi quel daimyo japonais ?",
+            "choices": ["A. Tokugawa Ieyasu", "B. Takeda Shingen", "C. Oda Nobunaga", "D. Uesugi Kenshin"],
+            "answer": "C"
+        },
 
     ]
 }
