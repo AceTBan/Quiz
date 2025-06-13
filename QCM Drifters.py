@@ -382,6 +382,11 @@ questions = [
             "choices": ["A. Tokugawa Ieyasu", "B. Takeda Shingen", "C. Oda Nobunaga", "D. Uesugi Kenshin"],
             "answer": "C"
         },
+{
+            "question": "Quelle bataille a marqué la fin du règne d'Akechi Mitsuhide ?",
+            "choices": ["A. Bataille de Sekigahara", "B. Bataille de Nagashino", "C. Bataille de Kawanakajima", "D. Bataille de Yamazaki"],
+            "answer": "D"
+        },
 
     ]
 }
