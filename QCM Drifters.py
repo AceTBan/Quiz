@@ -387,6 +387,11 @@ questions = [
             "choices": ["A. Bataille de Sekigahara", "B. Bataille de Nagashino", "C. Bataille de Kawanakajima", "D. Bataille de Yamazaki"],
             "answer": "D"
         },
+{
+            "question": "Quel était le surnom donné à Akechi Mitsuhide après sa courte prise de pouvoir ?",
+            "choices": ["A. Le traître de Kyoto", "B. Le shogun de treize jours", "C. Le renégat du Kansai", "D. Le fantôme de Yamazaki"],
+            "answer": "B"
+        },
 
     ]
 }
