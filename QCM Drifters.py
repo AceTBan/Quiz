@@ -392,6 +392,11 @@ questions = [
             "choices": ["A. Le traître de Kyoto", "B. Le shogun de treize jours", "C. Le renégat du Kansai", "D. Le fantôme de Yamazaki"],
             "answer": "B"
         },
+{
+            "question": "En quelle année Akechi Mitsuhide a-t-il orchestré l'attaque du temple Honnō-ji ?",
+            "choices": ["A. 1575", "B. 1580", "C. 1582", "D. 1585"],
+            "answer": "C"
+        },
 
     ]
 }
