@@ -397,6 +397,11 @@ questions = [
             "choices": ["A. 1575", "B. 1580", "C. 1582", "D. 1585"],
             "answer": "C"
         },
+{
+            "question": "Quel célèbre général a vengé Oda Nobunaga en battant Akechi Mitsuhide ?",
+            "choices": ["A. Tokugawa Ieyasu", "B. Toyotomi Hideyoshi", "C. Takeda Katsuyori", "D. Minamoto no Yoshitsune"],
+            "answer": "B"
+        },
 
     ]
 }
