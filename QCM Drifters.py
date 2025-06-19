@@ -402,6 +402,11 @@ questions = [
             "choices": ["A. Tokugawa Ieyasu", "B. Toyotomi Hideyoshi", "C. Takeda Katsuyori", "D. Minamoto no Yoshitsune"],
             "answer": "B"
         },
+{
+            "question": "Quel était le rôle d'Akechi Mitsuhide avant de trahir Oda Nobunaga ?",
+            "choices": ["A. Conseiller militaire", "B. Gouverneur de Kyoto", "C. Diplomate impérial", "D. Chef des armées"],
+            "answer": "B"
+        },
 
     ]
 }
