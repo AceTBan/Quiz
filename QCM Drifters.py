@@ -407,6 +407,11 @@ questions = [
             "choices": ["A. Conseiller militaire", "B. Gouverneur de Kyoto", "C. Diplomate impérial", "D. Chef des armées"],
             "answer": "B"
         },
+{
+            "question": "Quelle province Akechi Mitsuhide a-t-il gouvernée sous Oda Nobunaga ?",
+            "choices": ["A. Province de Mino", "B. Province de Tamba", "C. Province de Kai", "D. Province de Satsuma"],
+            "answer": "B"
+        },
 
     ]
 }
