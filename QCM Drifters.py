@@ -412,6 +412,11 @@ questions = [
             "choices": ["A. Province de Mino", "B. Province de Tamba", "C. Province de Kai", "D. Province de Satsuma"],
             "answer": "B"
         },
+{
+            "question": "Comment Akechi Mitsuhide est-il mort après sa défaite à Yamazaki ?",
+            "choices": ["A. Seppuku", "B. Assassiné par des paysans", "C. Exécuté par Toyotomi Hideyoshi", "D. Mort en exil"],
+            "answer": "B"
+        },
 
     ]
 }
