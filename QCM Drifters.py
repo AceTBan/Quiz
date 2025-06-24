@@ -417,6 +417,11 @@ questions = [
             "choices": ["A. Seppuku", "B. Assassiné par des paysans", "C. Exécuté par Toyotomi Hideyoshi", "D. Mort en exil"],
             "answer": "B"
         },
+{
+            "question": "Quel était le lien entre Akechi Mitsuhide et la cérémonie du thé japonaise ?",
+            "choices": ["A. Il était un grand amateur de thé", "B. Il a interdit la cérémonie du thé", "C. Il a fondé une école de thé", "D. Il a utilisé le thé comme poison politique"],
+            "answer": "A"
+        },
 
     ]
 }
