@@ -422,6 +422,11 @@ questions = [
             "choices": ["A. Il était un grand amateur de thé", "B. Il a interdit la cérémonie du thé", "C. Il a fondé une école de thé", "D. Il a utilisé le thé comme poison politique"],
             "answer": "A"
         },
+{
+            "question": "Quel château Akechi Mitsuhide a-t-il contrôlé avant sa trahison ?",
+            "choices": ["A. Château de Himeji", "B. Château de Sakamoto", "C. Château de Nagoya", "D. Château de Matsumoto"],
+            "answer": "B"
+        },
 
     ]
 }
