@@ -427,6 +427,14 @@ questions = [
             "choices": ["A. Château de Himeji", "B. Château de Sakamoto", "C. Château de Nagoya", "D. Château de Matsumoto"],
             "answer": "B"
         },
+# li Naomasa 
+{
+    "questions": [
+        {
+            "question": "Ii Naomasa était un général sous quel shogun japonais ?",
+            "choices": ["A. Oda Nobunaga", "B. Toyotomi Hideyoshi", "C. Tokugawa Ieyasu", "D. Takeda Shingen"],
+            "answer": "C"
+        },
 
     ]
 }
