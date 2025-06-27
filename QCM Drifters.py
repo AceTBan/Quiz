@@ -435,6 +435,11 @@ questions = [
             "choices": ["A. Oda Nobunaga", "B. Toyotomi Hideyoshi", "C. Tokugawa Ieyasu", "D. Takeda Shingen"],
             "answer": "C"
         },
+{
+            "question": "Quel était le surnom donné aux troupes de Ii Naomasa en raison de leur armure rouge ?",
+            "choices": ["A. Les Loups Rouges", "B. Les Dragons de Kyoto", "C. Les Diables Rouges", "D. Les Ombres Sanglantes"],
+            "answer": "C"
+        },
 
     ]
 }
