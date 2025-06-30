@@ -436,6 +436,11 @@ questions = [
             "answer": "C"
         },
 {
+            "question": "À quelle célèbre bataille Ii Naomasa a-t-il joué un rôle clé en 1600 ?",
+            "choices": ["A. Bataille de Nagashino", "B. Bataille de Kawanakajima", "C. Bataille de Sekigahara", "D. Bataille de Yamazaki"],
+            "answer": "C"
+        },
+{
             "question": "Quel était le surnom donné aux troupes de Ii Naomasa en raison de leur armure rouge ?",
             "choices": ["A. Les Loups Rouges", "B. Les Dragons de Kyoto", "C. Les Diables Rouges", "D. Les Ombres Sanglantes"],
             "answer": "C"
