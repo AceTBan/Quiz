@@ -445,6 +445,11 @@ questions = [
             "choices": ["A. Les Loups Rouges", "B. Les Dragons de Kyoto", "C. Les Diables Rouges", "D. Les Ombres Sanglantes"],
             "answer": "C"
         },
+{
+            "question": "Quel était le rôle de Ii Naomasa après la victoire de Tokugawa Ieyasu ?",
+            "choices": ["A. Gouverneur de Kyoto", "B. Daimyo de Hikone", "C. Conseiller impérial", "D. Shogun"],
+            "answer": "B"
+        },
 
     ]
 }
