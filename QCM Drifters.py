@@ -450,6 +450,11 @@ questions = [
             "choices": ["A. Gouverneur de Kyoto", "B. Daimyo de Hikone", "C. Conseiller impérial", "D. Shogun"],
             "answer": "B"
         },
+{
+            "question": "Quelle blessure Ii Naomasa a-t-il reçue à Sekigahara qui a conduit à sa mort prématurée ?",
+            "choices": ["A. Coup d'épée", "B. Flèche empoisonnée", "C. Balle d'arquebuse", "D. Chute de cheval"],
+            "answer": "C"
+        },
 
     ]
 }
