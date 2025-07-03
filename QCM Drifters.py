@@ -455,6 +455,11 @@ questions = [
             "choices": ["A. Coup d'épée", "B. Flèche empoisonnée", "C. Balle d'arquebuse", "D. Chute de cheval"],
             "answer": "C"
         },
+{
+            "question": "Quel clan Ii Naomasa a-t-il dirigé après la mort de son prédécesseur ?",
+            "choices": ["A. Clan Takeda", "B. Clan Oda", "C. Clan Ii", "D. Clan Tokugawa"],
+            "answer": "C"
+        },
 
     ]
 }
