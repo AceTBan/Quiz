@@ -460,6 +460,11 @@ questions = [
             "choices": ["A. Clan Takeda", "B. Clan Oda", "C. Clan Ii", "D. Clan Tokugawa"],
             "answer": "C"
         },
+{
+            "question": "Quel célèbre général japonais a inspiré Ii Naomasa à utiliser des armures rouges pour ses troupes ?",
+            "choices": ["A. Uesugi Kenshin", "B. Takeda Shingen", "C. Minamoto no Yoshitsune", "D. Ashikaga Yoshimitsu"],
+            "answer": "B"
+        },
 
     ]
 }
