@@ -465,6 +465,11 @@ questions = [
             "choices": ["A. Uesugi Kenshin", "B. Takeda Shingen", "C. Minamoto no Yoshitsune", "D. Ashikaga Yoshimitsu"],
             "answer": "B"
         },
+{
+            "question": "Quel était le lien familial entre Ii Naomasa et Tokugawa Ieyasu ?",
+            "choices": ["A. Frère", "B. Gendre", "C. Fils adoptif", "D. Aucun lien direct"],
+            "answer": "B"
+        },
 
     ]
 }
