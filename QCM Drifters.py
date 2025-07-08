@@ -470,6 +470,11 @@ questions = [
             "choices": ["A. Frère", "B. Gendre", "C. Fils adoptif", "D. Aucun lien direct"],
             "answer": "B"
         },
+{
+            "question": "Dans quelle province Ii Naomasa a-t-il établi son domaine après Sekigahara ?",
+            "choices": ["A. Province de Kai", "B. Province de Tamba", "C. Province d'Ōmi", "D. Province de Satsuma"],
+            "answer": "C"
+        },
 
     ]
 }
