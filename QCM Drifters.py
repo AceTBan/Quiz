@@ -475,6 +475,11 @@ questions = [
             "choices": ["A. Province de Kai", "B. Province de Tamba", "C. Province d'Ōmi", "D. Province de Satsuma"],
             "answer": "C"
         },
+{
+            "question": "Quel était le surnom personnel de Ii Naomasa en raison de son style de combat impitoyable ?",
+            "choices": ["A. Aka-oni (Démon Rouge)", "B. Tora no Kenshi (Épée du Tigre)", "C. Kage no Bushi (Guerrier de l'Ombre)", "D. Kaminari no Samurai (Samouraï du Tonnerre)"],
+            "answer": "A"
+        },
 
     ]
 }
