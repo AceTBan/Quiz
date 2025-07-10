@@ -480,6 +480,14 @@ questions = [
             "choices": ["A. Aka-oni (Démon Rouge)", "B. Tora no Kenshi (Épée du Tigre)", "C. Kage no Bushi (Guerrier de l'Ombre)", "D. Kaminari no Samurai (Samouraï du Tonnerre)"],
             "answer": "A"
         },
+# Minamoto no yoshitsune
+{
+    "questions": [
+        {
+            "question": "Minamoto no Yoshitsune était le demi-frère de quel célèbre shogun ?",
+            "choices": ["A. Minamoto no Yoritomo", "B. Ashikaga Takauji", "C. Tokugawa Ieyasu", "D. Oda Nobunaga"],
+            "answer": "A"
+        },
 
     ]
 }
