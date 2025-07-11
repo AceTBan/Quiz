@@ -488,6 +488,11 @@ questions = [
             "choices": ["A. Minamoto no Yoritomo", "B. Ashikaga Takauji", "C. Tokugawa Ieyasu", "D. Oda Nobunaga"],
             "answer": "A"
         },
+{
+            "question": "Quel moine-guerrier légendaire est devenu le fidèle compagnon de Yoshitsune ?",
+            "choices": ["A. Musashibō Benkei", "B. Taira no Kiyomori", "C. Kusunoki Masashige", "D. Saitō Musashibō"],
+            "answer": "A"
+        },
 
     ]
 }
