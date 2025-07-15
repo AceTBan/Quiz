@@ -493,6 +493,11 @@ questions = [
             "choices": ["A. Musashibō Benkei", "B. Taira no Kiyomori", "C. Kusunoki Masashige", "D. Saitō Musashibō"],
             "answer": "A"
         },
+{
+            "question": "Dans quelle guerre Minamoto no Yoshitsune s'est-il illustré ?",
+            "choices": ["A. Guerre de Genpei", "B. Guerre de Boshin", "C. Guerre d'Onin", "D. Guerre de Sekigahara"],
+            "answer": "A"
+        },
 
     ]
 }
