@@ -498,6 +498,11 @@ questions = [
             "choices": ["A. Guerre de Genpei", "B. Guerre de Boshin", "C. Guerre d'Onin", "D. Guerre de Sekigahara"],
             "answer": "A"
         },
+{
+            "question": "Quelle célèbre bataille Yoshitsune a-t-il remportée contre le clan Taira en 1185 ?",
+            "choices": ["A. Bataille d'Ichi-no-Tani", "B. Bataille de Yashima", "C. Bataille de Dan-no-ura", "D. Bataille de Nagashino"],
+            "answer": "C"
+        },
 
     ]
 }
