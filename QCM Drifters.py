@@ -503,6 +503,11 @@ questions = [
             "choices": ["A. Bataille d'Ichi-no-Tani", "B. Bataille de Yashima", "C. Bataille de Dan-no-ura", "D. Bataille de Nagashino"],
             "answer": "C"
         },
+{
+            "question": "Quel était le surnom de Yoshitsune dans son enfance ?",
+            "choices": ["A. Hachiman", "B. Ushiwakamaru", "C. Taira no Kojiro", "D. Kamakura no Kenshi"],
+            "answer": "B"
+        },
 
     ]
 }
