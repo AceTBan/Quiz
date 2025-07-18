@@ -508,6 +508,11 @@ questions = [
             "choices": ["A. Hachiman", "B. Ushiwakamaru", "C. Taira no Kojiro", "D. Kamakura no Kenshi"],
             "answer": "B"
         },
+{
+            "question": "Pourquoi Yoshitsune a-t-il été pourchassé par son propre frère Yoritomo ?",
+            "choices": ["A. Il a tenté de renverser Yoritomo", "B. Il était trop populaire et considéré comme une menace", "C. Il a rejoint le clan Taira", "D. Il a refusé de devenir shogun"],
+            "answer": "B"
+        },
 
     ]
 }
