@@ -513,6 +513,11 @@ questions = [
             "choices": ["A. Il a tenté de renverser Yoritomo", "B. Il était trop populaire et considéré comme une menace", "C. Il a rejoint le clan Taira", "D. Il a refusé de devenir shogun"],
             "answer": "B"
         },
+{
+            "question": "Dans quelle province Yoshitsune s'est-il réfugié avant sa mort ?",
+            "choices": ["A. Province de Kai", "B. Province de Mutsu", "C. Province de Tamba", "D. Province de Satsuma"],
+            "answer": "B"
+        },
 
     ]
 }
