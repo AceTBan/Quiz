@@ -518,6 +518,11 @@ questions = [
             "choices": ["A. Province de Kai", "B. Province de Mutsu", "C. Province de Tamba", "D. Province de Satsuma"],
             "answer": "B"
         },
+{
+            "question": "Comment Yoshitsune est-il mort en 1189 ?",
+            "choices": ["A. Seppuku", "B. Assassiné par des soldats de Yoritomo", "C. Mort au combat", "D. Exécuté publiquement"],
+            "answer": "A"
+        },
 
     ]
 }
