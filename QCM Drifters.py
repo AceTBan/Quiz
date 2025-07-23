@@ -523,6 +523,11 @@ questions = [
             "choices": ["A. Seppuku", "B. Assassiné par des soldats de Yoritomo", "C. Mort au combat", "D. Exécuté publiquement"],
             "answer": "A"
         },
+{
+            "question": "Quel gouverneur a protégé Yoshitsune avant sa chute ?",
+            "choices": ["A. Fujiwara no Hidehira", "B. Ashikaga Yoshimitsu", "C. Tokugawa Hidetada", "D. Taira no Tomomori"],
+            "answer": "A"
+        },
 
     ]
 }
