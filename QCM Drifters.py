@@ -528,6 +528,11 @@ questions = [
             "choices": ["A. Fujiwara no Hidehira", "B. Ashikaga Yoshimitsu", "C. Tokugawa Hidetada", "D. Taira no Tomomori"],
             "answer": "A"
         },
+{
+            "question": "Quel art martial Yoshitsune aurait-il appris auprès d'un tengu selon la légende ?",
+            "choices": ["A. Kenjutsu", "B. Kyujutsu", "C. Ninjutsu", "D. Tessenjutsu"],
+            "answer": "A"
+        },
 
     ]
 }
