@@ -533,6 +533,14 @@ questions = [
             "choices": ["A. Kenjutsu", "B. Kyujutsu", "C. Ninjutsu", "D. Tessenjutsu"],
             "answer": "A"
         },
+# naoshi kanno
+{
+    "questions": [
+        {
+            "question": "Naoshi Kanno était un pilote de chasse pour quelle branche militaire japonaise ?",
+            "choices": ["A. Armée impériale japonaise", "B. Marine impériale japonaise", "C. Force aérienne impériale", "D. Garde impériale"],
+            "answer": "B"
+        },
 
     ]
 }
