@@ -541,6 +541,11 @@ questions = [
             "choices": ["A. Armée impériale japonaise", "B. Marine impériale japonaise", "C. Force aérienne impériale", "D. Garde impériale"],
             "answer": "B"
         },
+{
+            "question": "Combien de victoires aériennes confirmées Naoshi Kanno a-t-il obtenues ?",
+            "choices": ["A. 15", "B. 25", "C. 35", "D. 50"],
+            "answer": "B"
+        },
 
     ]
 }
