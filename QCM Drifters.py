@@ -546,6 +546,11 @@ questions = [
             "choices": ["A. 15", "B. 25", "C. 35", "D. 50"],
             "answer": "B"
         },
+{
+            "question": "Quel avion de chasse Naoshi Kanno pilotait-il principalement ?",
+            "choices": ["A. Mitsubishi A6M Zero", "B. Nakajima Ki-43", "C. Kawanishi N1K", "D. Yokosuka D4Y"],
+            "answer": "C"
+        },
 
     ]
 }
