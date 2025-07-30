@@ -551,6 +551,11 @@ questions = [
             "choices": ["A. Mitsubishi A6M Zero", "B. Nakajima Ki-43", "C. Kawanishi N1K", "D. Yokosuka D4Y"],
             "answer": "C"
         },
+{
+            "question": "Quel était le surnom de Naoshi Kanno en raison de son style de combat agressif ?",
+            "choices": ["A. Le Faucon de Kyushu", "B. Le Tigre du Pacifique", "C. Bulldog Yellow Fighter", "D. Le Spectre du ciel"],
+            "answer": "C"
+        },
 
     ]
 }
