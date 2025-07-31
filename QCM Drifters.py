@@ -556,6 +556,11 @@ questions = [
             "choices": ["A. Le Faucon de Kyushu", "B. Le Tigre du Pacifique", "C. Bulldog Yellow Fighter", "D. Le Spectre du ciel"],
             "answer": "C"
         },
+{
+            "question": "Dans quelle unité aérienne Naoshi Kanno a-t-il servi en 1945 ?",
+            "choices": ["A. 343rd Naval Air Group", "B. 201st Naval Air Group", "C. 306th Squadron", "D. 501st Air Division"],
+            "answer": "A"
+        },
 
     ]
 }
