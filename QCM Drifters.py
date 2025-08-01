@@ -561,6 +561,11 @@ questions = [
             "choices": ["A. 343rd Naval Air Group", "B. 201st Naval Air Group", "C. 306th Squadron", "D. 501st Air Division"],
             "answer": "A"
         },
+{
+            "question": "Quel événement a marqué la dernière mission de Naoshi Kanno ?",
+            "choices": ["A. Une attaque sur Pearl Harbor", "B. Une interception de B-24 près de Yakushima", "C. Une bataille aérienne au-dessus de Tokyo", "D. Une mission kamikaze refusée"],
+            "answer": "B"
+        },
 
     ]
 }
