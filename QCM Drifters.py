@@ -566,6 +566,11 @@ questions = [
             "choices": ["A. Une attaque sur Pearl Harbor", "B. Une interception de B-24 près de Yakushima", "C. Une bataille aérienne au-dessus de Tokyo", "D. Une mission kamikaze refusée"],
             "answer": "B"
         },
+{
+            "question": "Pourquoi Naoshi Kanno n'a-t-il pas été autorisé à rejoindre une unité kamikaze ?",
+            "choices": ["A. Il était trop jeune", "B. Il était considéré comme un pilote trop précieux", "C. Il refusait de se sacrifier", "D. Il était blessé"],
+            "answer": "B"
+        },
 
     ]
 }
