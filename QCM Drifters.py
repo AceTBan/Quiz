@@ -571,6 +571,11 @@ questions = [
             "choices": ["A. Il était trop jeune", "B. Il était considéré comme un pilote trop précieux", "C. Il refusait de se sacrifier", "D. Il était blessé"],
             "answer": "B"
         },
+{
+            "question": "Quel était le destin final de Naoshi Kanno après sa dernière mission ?",
+            "choices": ["A. Il a été capturé", "B. Il a survécu et vécu en exil", "C. Il a disparu en mission et présumé mort", "D. Il a été exécuté par les forces américaines"],
+            "answer": "C"
+        },
 
     ]
 }
