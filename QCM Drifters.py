@@ -576,6 +576,11 @@ questions = [
             "choices": ["A. Il a été capturé", "B. Il a survécu et vécu en exil", "C. Il a disparu en mission et présumé mort", "D. Il a été exécuté par les forces américaines"],
             "answer": "C"
         },
+{
+            "question": "Où Naoshi Kanno a-t-il été honoré après sa mort ?",
+            "choices": ["A. Temple Honnō-ji", "B. Sanctuaire Yasukuni", "C. Musée de l'aviation de Tokyo", "D. Mémorial de Hiroshima"],
+            "answer": "B"
+        },
 
     ]
 }
