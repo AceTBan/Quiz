@@ -581,6 +581,11 @@ questions = [
             "choices": ["A. Temple Honnō-ji", "B. Sanctuaire Yasukuni", "C. Musée de l'aviation de Tokyo", "D. Mémorial de Hiroshima"],
             "answer": "B"
         },
+{
+            "question": "Dans quel anime Naoshi Kanno apparaît-il comme un personnage ?",
+            "choices": ["A. Attack on Titan", "B. Drifters", "C. Code Geass", "D. Samurai Champloo"],
+            "answer": "B"
+        },
 
     ]
 }
