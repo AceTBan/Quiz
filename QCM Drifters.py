@@ -586,6 +586,14 @@ questions = [
             "choices": ["A. Attack on Titan", "B. Drifters", "C. Code Geass", "D. Samurai Champloo"],
             "answer": "B"
         },
+# butch Cassidy 
+{
+    "questions": [
+        {
+            "question": "Quel était le vrai nom de Butch Cassidy ?",
+            "choices": ["A. Harry Alonzo Longabaugh", "B. Robert Leroy Parker", "C. Jesse James", "D. William H. Bonney"],
+            "answer": "B"
+        },
 
     ]
 }
