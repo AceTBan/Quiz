@@ -594,6 +594,11 @@ questions = [
             "choices": ["A. Harry Alonzo Longabaugh", "B. Robert Leroy Parker", "C. Jesse James", "D. William H. Bonney"],
             "answer": "B"
         },
+{
+            "question": "Quel gang Butch Cassidy a-t-il dirigé ?",
+            "choices": ["A. Dalton Gang", "B. James-Younger Gang", "C. Wild Bunch", "D. Hole-in-the-Wall Gang"],
+            "answer": "C"
+        },
 
     ]
 }
