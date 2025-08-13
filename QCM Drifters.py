@@ -599,6 +599,11 @@ questions = [
             "choices": ["A. Dalton Gang", "B. James-Younger Gang", "C. Wild Bunch", "D. Hole-in-the-Wall Gang"],
             "answer": "C"
         },
+{
+            "question": "Pourquoi Butch Cassidy a-t-il choisi le nom 'Cassidy' ?",
+            "choices": ["A. En hommage à un ami voleur de chevaux", "B. Parce qu'il aimait le nom", "C. Pour cacher son identité", "D. Parce qu'il était un boucher"],
+            "answer": "A"
+        },
 
     ]
 }
