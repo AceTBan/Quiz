@@ -604,6 +604,11 @@ questions = [
             "choices": ["A. En hommage à un ami voleur de chevaux", "B. Parce qu'il aimait le nom", "C. Pour cacher son identité", "D. Parce qu'il était un boucher"],
             "answer": "A"
         },
+{
+            "question": "Dans quel pays Butch Cassidy et Sundance Kid se sont-ils réfugiés pour échapper aux détectives Pinkerton ?",
+            "choices": ["A. Argentine", "B. Mexique", "C. Canada", "D. Bolivie"],
+            "answer": "D"
+        },
 
     ]
 }
