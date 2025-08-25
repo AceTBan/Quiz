@@ -609,7 +609,11 @@ questions = [
             "choices": ["A. Argentine", "B. Mexique", "C. Canada", "D. Bolivie"],
             "answer": "D"
         },
-
+{
+            "question": "Quel était le principal crime commis par Butch Cassidy et son gang ?",
+            "choices": ["A. Vol de chevaux", "B. Braquage de banques et de trains", "C. Contrebande d'alcool", "D. Assassinat"],
+            "answer": "B"
+        },
     ]
 }
     # Ajoutez plus de questions ici
