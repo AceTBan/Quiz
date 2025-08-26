@@ -614,6 +614,11 @@ questions = [
             "choices": ["A. Vol de chevaux", "B. Braquage de banques et de trains", "C. Contrebande d'alcool", "D. Assassinat"],
             "answer": "B"
         },
+{
+            "question": "En quelle année Butch Cassidy est-il présumé mort ?",
+            "choices": ["A. 1906", "B. 1907", "C. 1908", "D. 1909"],
+            "answer": "C"
+        },
     ]
 }
     # Ajoutez plus de questions ici
