@@ -619,6 +619,11 @@ questions = [
             "choices": ["A. 1906", "B. 1907", "C. 1908", "D. 1909"],
             "answer": "C"
         },
+{
+            "question": "Quel célèbre film raconte l'histoire de Butch Cassidy et Sundance Kid ?",
+            "choices": ["A. The Wild Bunch", "B. Butch Cassidy and the Sundance Kid", "C. True Grit", "D. Unforgiven"],
+            "answer": "B"
+        },
     ]
 }
     # Ajoutez plus de questions ici
