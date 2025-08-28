@@ -624,6 +624,11 @@ questions = [
             "choices": ["A. The Wild Bunch", "B. Butch Cassidy and the Sundance Kid", "C. True Grit", "D. Unforgiven"],
             "answer": "B"
         },
+{
+            "question": "Quel détective célèbre a poursuivi Butch Cassidy et son gang ?",
+            "choices": ["A. Allan Pinkerton", "B. Wyatt Earp", "C. Bat Masterson", "D. Pat Garrett"],
+            "answer": "A"
+        },
     ]
 }
     # Ajoutez plus de questions ici
