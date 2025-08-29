@@ -629,6 +629,11 @@ questions = [
             "choices": ["A. Allan Pinkerton", "B. Wyatt Earp", "C. Bat Masterson", "D. Pat Garrett"],
             "answer": "A"
         },
+{
+            "question": "Quel était le premier grand braquage de Butch Cassidy ?",
+            "choices": ["A. Une banque à Telluride", "B. Un train à Wilcox", "C. Une diligence au Texas", "D. Une mine d'or au Nevada"],
+            "answer": "A"
+        },
     ]
 }
     # Ajoutez plus de questions ici
