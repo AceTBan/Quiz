@@ -634,6 +634,11 @@ questions = [
             "choices": ["A. Une banque à Telluride", "B. Un train à Wilcox", "C. Une diligence au Texas", "D. Une mine d'or au Nevada"],
             "answer": "A"
         },
+{
+            "question": "Quel était le surnom de Butch Cassidy avant de devenir un célèbre hors-la-loi ?",
+            "choices": ["A. The Tall Texan", "B. The Kid", "C. The Sundance Wrangler", "D. Aucun surnom"],
+            "answer": "D"
+        },
     ]
 }
     # Ajoutez plus de questions ici
