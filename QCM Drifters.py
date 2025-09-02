@@ -639,6 +639,14 @@ questions = [
             "choices": ["A. The Tall Texan", "B. The Kid", "C. The Sundance Wrangler", "D. Aucun surnom"],
             "answer": "D"
         },
+# Raspoutine 
+{
+    "questions": [
+        {
+            "question": "Quelle était la profession principale de Grigori Raspoutine avant d'acquérir de l'influence à la cour impériale russe ?",
+            "choices": ["A. Moine", "B. Paysan", "C. Médecin", "D. Militaire"],
+            "answer": "B"
+        },
     ]
 }
     # Ajoutez plus de questions ici
