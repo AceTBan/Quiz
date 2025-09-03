@@ -647,6 +647,11 @@ questions = [
             "choices": ["A. Moine", "B. Paysan", "C. Médecin", "D. Militaire"],
             "answer": "B"
         },
+{
+            "question": "Dans quelle ville Raspoutine a-t-il été assassiné en 1916 ?",
+            "choices": ["A. Moscou", "B. Saint-Pétersbourg", "C. Kiev", "D. Vladivostok"],
+            "answer": "B"
+        },
     ]
 }
     # Ajoutez plus de questions ici
