@@ -652,6 +652,11 @@ questions = [
             "choices": ["A. Moscou", "B. Saint-Pétersbourg", "C. Kiev", "D. Vladivostok"],
             "answer": "B"
         },
+{
+            "question": "Quel tsar russe Raspoutine conseillait-il ?",
+            "choices": ["A. Alexandre III", "B. Nicolas II", "C. Pierre le Grand", "D. Ivan IV"],
+            "answer": "B"
+        },
     ]
 }
     # Ajoutez plus de questions ici
