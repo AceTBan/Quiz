@@ -657,6 +657,11 @@ questions = [
             "choices": ["A. Alexandre III", "B. Nicolas II", "C. Pierre le Grand", "D. Ivan IV"],
             "answer": "B"
         },
+{
+            "question": "Quel était le principal rôle de Raspoutine auprès de la famille impériale ?",
+            "choices": ["A. Conseiller militaire", "B. Guérisseur", "C. Diplomate", "D. Ministre des Finances"],
+            "answer": "B"
+        },
     ]
 }
     # Ajoutez plus de questions ici
