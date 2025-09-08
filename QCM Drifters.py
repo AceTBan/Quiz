@@ -662,6 +662,11 @@ questions = [
             "choices": ["A. Conseiller militaire", "B. Guérisseur", "C. Diplomate", "D. Ministre des Finances"],
             "answer": "B"
         },
+{
+            "question": "Quel était le nom de l'épouse du tsar Nicolas II, qui était particulièrement influencée par Raspoutine ?",
+            "choices": ["A. Catherine la Grande", "B. Alexandra Feodorovna", "C. Maria Romanova", "D. Olga Nikolaevna"],
+            "answer": "B"
+        },
     ]
 }
     # Ajoutez plus de questions ici
