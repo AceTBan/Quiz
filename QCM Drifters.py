@@ -667,6 +667,11 @@ questions = [
             "choices": ["A. Catherine la Grande", "B. Alexandra Feodorovna", "C. Maria Romanova", "D. Olga Nikolaevna"],
             "answer": "B"
         },
+{
+            "question": "Quel était le principal problème de santé du fils du tsar Nicolas II, que Raspoutine prétendait pouvoir soigner ?",
+            "choices": ["A. Tuberculose", "B. Hémophilie", "C. Épilepsie", "D. Maladie de Parkinson"],
+            "answer": "B"
+        },
     ]
 }
     # Ajoutez plus de questions ici
