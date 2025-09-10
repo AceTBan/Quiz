@@ -672,6 +672,11 @@ questions = [
             "choices": ["A. Tuberculose", "B. Hémophilie", "C. Épilepsie", "D. Maladie de Parkinson"],
             "answer": "B"
         },
+{
+            "question": "Quel groupe de nobles russes a organisé l'assassinat de Raspoutine ?",
+            "choices": ["A. Les bolcheviks", "B. Les Romanov", "C. Les aristocrates conservateurs", "D. Les cosaques"],
+            "answer": "C"
+        },
     ]
 }
     # Ajoutez plus de questions ici
