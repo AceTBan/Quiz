@@ -677,6 +677,11 @@ questions = [
             "choices": ["A. Les bolcheviks", "B. Les Romanov", "C. Les aristocrates conservateurs", "D. Les cosaques"],
             "answer": "C"
         },
+{
+            "question": "Quelle méthode a été utilisée pour assassiner Raspoutine ?",
+            "choices": ["A. Empoisonnement", "B. Fusillade", "C. Noyade", "D. Toutes ces réponses"],
+            "answer": "D"
+        },
     ]
 }
     # Ajoutez plus de questions ici
