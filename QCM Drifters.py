@@ -682,6 +682,11 @@ questions = [
             "choices": ["A. Empoisonnement", "B. Fusillade", "C. Noyade", "D. Toutes ces réponses"],
             "answer": "D"
         },
+{
+            "question": "Quel mythe entoure la mort de Raspoutine ?",
+            "choices": ["A. Il aurait survécu à plusieurs tentatives d'assassinat", "B. Il aurait été enterré vivant", "C. Il aurait été exécuté publiquement", "D. Il aurait disparu mystérieusement"],
+            "answer": "A"
+        },
     ]
 }
     # Ajoutez plus de questions ici
