@@ -687,6 +687,11 @@ questions = [
             "choices": ["A. Il aurait survécu à plusieurs tentatives d'assassinat", "B. Il aurait été enterré vivant", "C. Il aurait été exécuté publiquement", "D. Il aurait disparu mystérieusement"],
             "answer": "A"
         },
+{
+            "question": "Quel impact l'influence de Raspoutine a-t-elle eu sur la réputation de la famille impériale russe ?",
+            "choices": ["A. Elle a renforcé leur pouvoir", "B. Elle a contribué à leur chute", "C. Elle a amélioré leur image auprès du peuple", "D. Elle a permis une alliance avec l'Allemagne"],
+            "answer": "B"
+        }
     ]
 }
     # Ajoutez plus de questions ici
