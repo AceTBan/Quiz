@@ -6,6 +6,11 @@ questions = [
         "choices": ["A. Poséidon", "B. Hadès", "C. Apollon", "D. Zeus"],
         "answer": "D"
     },
+{
+        "question": "Qui est la déesse de la sagesse et de la guerre stratégique ?",
+        "choices": ["A. Héra", "B. Artémis", "C. Athéna", "D. Aphrodite"],
+        "answer": "C"
+    },
 
     # ... ajoute ici toutes tes autres questions ...
 ]
