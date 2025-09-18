@@ -11,6 +11,11 @@ questions = [
         "choices": ["A. Héra", "B. Artémis", "C. Athéna", "D. Aphrodite"],
         "answer": "C"
     },
+{
+        "question": "Quel héros a tué le Minotaure dans le labyrinthe de Crète ?",
+        "choices": ["A. Héraclès", "B. Thésée", "C. Persée", "D. Jason"],
+        "answer": "B"
+    },
 
     # ... ajoute ici toutes tes autres questions ...
 ]
