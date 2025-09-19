@@ -16,6 +16,11 @@ questions = [
         "choices": ["A. Héraclès", "B. Thésée", "C. Persée", "D. Jason"],
         "answer": "B"
     },
+{
+        "question": "Quel dieu est associé au soleil, à la musique et à la divination ?",
+        "choices": ["A. Dionysos", "B. Hermès", "C. Apollon", "D. Arès"],
+        "answer": "C"
+    },
 
     # ... ajoute ici toutes tes autres questions ...
 ]
