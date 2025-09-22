@@ -21,6 +21,11 @@ questions = [
         "choices": ["A. Dionysos", "B. Hermès", "C. Apollon", "D. Arès"],
         "answer": "C"
     },
+{
+        "question": "Quelle créature mythologique possède un corps de lion, une tête humaine et des ailes ?",
+        "choices": ["A. Chimère", "B. Sphinx", "C. Griffon", "D. Harpie"],
+        "answer": "B"
+    },
 
     # ... ajoute ici toutes tes autres questions ...
 ]
