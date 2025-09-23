@@ -26,6 +26,11 @@ questions = [
         "choices": ["A. Chimère", "B. Sphinx", "C. Griffon", "D. Harpie"],
         "answer": "B"
     },
+{
+        "question": "Qui est le dieu des enfers dans la mythologie grecque ?",
+        "choices": ["A. Hadès", "B. Chronos", "C. Pan", "D. Héphaïstos"],
+        "answer": "A"
+    },
 
     # ... ajoute ici toutes tes autres questions ...
 ]
