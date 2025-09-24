@@ -31,6 +31,11 @@ questions = [
         "choices": ["A. Hadès", "B. Chronos", "C. Pan", "D. Héphaïstos"],
         "answer": "A"
     },
+{
+        "question": "Quel héros a accompli douze travaux imposés par Eurysthée ?",
+        "choices": ["A. Achille", "B. Ulysse", "C. Héraclès", "D. Orphée"],
+        "answer": "C"
+    },
 
     # ... ajoute ici toutes tes autres questions ...
 ]
