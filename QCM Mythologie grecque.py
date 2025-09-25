@@ -36,8 +36,13 @@ questions = [
         "choices": ["A. Achille", "B. Ulysse", "C. Héraclès", "D. Orphée"],
         "answer": "C"
     },
+{
+        "question": "Qui est la déesse de l’amour et de la beauté ?",
+        "choices": ["A. Hestia", "B. Déméter", "C. Athéna", "D. Aphrodite"],
+        "answer": "D"
+    },
 
-    # ... ajoute ici toutes tes autres questions ...
+    # ... ajoute toutes autres questions ici ...
 ]
 
 def poser_questions(questions):
