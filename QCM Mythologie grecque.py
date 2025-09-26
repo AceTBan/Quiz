@@ -41,6 +41,11 @@ questions = [
         "choices": ["A. Hestia", "B. Déméter", "C. Athéna", "D. Aphrodite"],
         "answer": "D"
     },
+{
+        "question": "Quel titan est le père de Zeus, Poséidon et Hadès ?",
+        "choices": ["A. Ouranos", "B. Chronos", "C. Prométhée", "D. Océan"],
+        "answer": "B"
+    },
 
     # ... ajoute toutes autres questions ici ...
 ]
