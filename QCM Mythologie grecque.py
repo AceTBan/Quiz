@@ -46,6 +46,11 @@ questions = [
         "choices": ["A. Ouranos", "B. Chronos", "C. Prométhée", "D. Océan"],
         "answer": "B"
     },
+{
+        "question": "Quel héros grec est connu pour son voyage semé d’embûches après la guerre de Troie ?",
+        "choices": ["A. Ulysse", "B. Hector", "C. Achille", "D. Agamemnon"],
+        "answer": "A"
+    }
 
     # ... ajoute toutes autres questions ici ...
 ]
