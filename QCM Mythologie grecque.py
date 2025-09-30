@@ -50,7 +50,12 @@ questions = [
         "question": "Quel héros grec est connu pour son voyage semé d’embûches après la guerre de Troie ?",
         "choices": ["A. Ulysse", "B. Hector", "C. Achille", "D. Agamemnon"],
         "answer": "A"
-    }
+    },
+{
+        "question": "Qui est le dieu grec du sommeil, souvent représenté avec des ailes sur les tempes ?",
+        "choices": ["A. Hypnos", "B. Thanatos", "C. Morpheus", "D. Phobos"],
+        "answer": "A"
+    },
 
     # ... ajoute toutes autres questions ici ...
 ]
