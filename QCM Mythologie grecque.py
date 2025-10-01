@@ -56,6 +56,11 @@ questions = [
         "choices": ["A. Hypnos", "B. Thanatos", "C. Morpheus", "D. Phobos"],
         "answer": "A"
     },
+{
+        "question": "Quel dieu est le jumeau de Hypnos et incarne la mort paisible ?",
+        "choices": ["A. Chronos", "B. Thanatos", "C. Erebus", "D. Hélios"],
+        "answer": "B"
+    },
 
     # ... ajoute toutes autres questions ici ...
 ]
