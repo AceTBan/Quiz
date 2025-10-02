@@ -61,6 +61,11 @@ questions = [
         "choices": ["A. Chronos", "B. Thanatos", "C. Erebus", "D. Hélios"],
         "answer": "B"
     },
+{
+        "question": "Quel dieu mineur est le père des rêves et des illusions ?",
+        "choices": ["A. Morpheus", "B. Oneiros", "C. Phantasos", "D. Somnus"],
+        "answer": "A"
+    },
 
     # ... ajoute toutes autres questions ici ...
 ]
