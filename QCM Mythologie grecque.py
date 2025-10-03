@@ -66,6 +66,11 @@ questions = [
         "choices": ["A. Morpheus", "B. Oneiros", "C. Phantasos", "D. Somnus"],
         "answer": "A"
     },
+{
+        "question": "Quel dieu grec est associé aux portes et aux transitions, souvent invoqué au seuil des maisons ?",
+        "choices": ["A. Janus", "B. Hécate", "C. Hermès", "D. Aucun, Janus est romain"],
+        "answer": "D"
+    },
 
     # ... ajoute toutes autres questions ici ...
 ]
