@@ -71,6 +71,11 @@ questions = [
         "choices": ["A. Janus", "B. Hécate", "C. Hermès", "D. Aucun, Janus est romain"],
         "answer": "D"
     },
+{
+        "question": "Quel dieu primordial représente les ténèbres avant la création ?",
+        "choices": ["A. Chaos", "B. Nyx", "C. Erebus", "D. Tartare"],
+        "answer": "C"
+    },
 
     # ... ajoute toutes autres questions ici ...
 ]
