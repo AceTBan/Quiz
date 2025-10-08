@@ -76,6 +76,11 @@ questions = [
         "choices": ["A. Chaos", "B. Nyx", "C. Erebus", "D. Tartare"],
         "answer": "C"
     },
+{
+        "question": "Quelle créature possède une tête de lion, une tête de chèvre et une queue de serpent ?",
+        "choices": ["A. Chimère", "B. Hydre", "C. Sphinx", "D. Gorgone"],
+        "answer": "A"
+    },
 
     # ... ajoute toutes autres questions ici ...
 ]
