@@ -81,6 +81,11 @@ questions = [
         "choices": ["A. Chimère", "B. Hydre", "C. Sphinx", "D. Gorgone"],
         "answer": "A"
     },
+{
+        "question": "Quel héros a vaincu la Chimère avec l’aide de Pégase ?",
+        "choices": ["A. Persée", "B. Bellérophon", "C. Thésée", "D. Héraclès"],
+        "answer": "B"
+    },
 
     # ... ajoute toutes autres questions ici ...
 ]
