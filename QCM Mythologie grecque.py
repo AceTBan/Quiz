@@ -86,6 +86,11 @@ questions = [
         "choices": ["A. Persée", "B. Bellérophon", "C. Thésée", "D. Héraclès"],
         "answer": "B"
     },
+{
+        "question": "Quelle créature féminine attire les marins avec son chant pour les faire sombrer ?",
+        "choices": ["A. Harpie", "B. Nymphe", "C. Sirène", "D. Satyre"],
+        "answer": "C"
+    },
 
     # ... ajoute toutes autres questions ici ...
 ]
