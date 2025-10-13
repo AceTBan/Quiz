@@ -91,6 +91,11 @@ questions = [
         "choices": ["A. Harpie", "B. Nymphe", "C. Sirène", "D. Satyre"],
         "answer": "C"
     },
+{
+        "question": "Quel monstre marin envoyé par Poséidon a été vaincu par Persée ?",
+        "choices": ["A. Scylla", "B. Charybde", "C. Kraken", "D. Céto"],
+        "answer": "D"
+    },
 
     # ... ajoute toutes autres questions ici ...
 ]
