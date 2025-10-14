@@ -96,6 +96,11 @@ questions = [
         "choices": ["A. Scylla", "B. Charybde", "C. Kraken", "D. Céto"],
         "answer": "D"
     },
+{
+        "question": "Quel géant cyclope a été aveuglé par Ulysse ?",
+        "choices": ["A. Brontès", "B. Arges", "C. Polyphème", "D. Gygès"],
+        "answer": "C"
+    },
 
     # ... ajoute toutes autres questions ici ...
 ]
