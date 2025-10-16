@@ -6,6 +6,11 @@ questions = [
         "choices": ["A. Thor", "B. Loki", "C. Freyr", "D. Odin"],
         "answer": "D"
     },
+{
+        "question": "Quel dieu nordique est connu pour son marteau Mjöllnir ?",
+        "choices": ["A. Baldr", "B. Thor", "C. Tyr", "D. Heimdall"],
+        "answer": "B"
+    },
     # ... ajoute toutes autres questions ici ...
 ]
 
