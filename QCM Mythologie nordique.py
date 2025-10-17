@@ -11,6 +11,11 @@ questions = [
         "choices": ["A. Baldr", "B. Thor", "C. Tyr", "D. Heimdall"],
         "answer": "B"
     },
+{
+        "question": "Quel est le nom du loup géant qui dévorera Odin lors du Ragnarök ?",
+        "choices": ["A. Fenrir", "B. Garm", "C. Sköll", "D. Hati"],
+        "answer": "A"
+    },
     # ... ajoute toutes autres questions ici ...
 ]
 
