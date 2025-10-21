@@ -21,6 +21,11 @@ questions = [
         "choices": ["A. Freyr", "B. Loki", "C. Tyr", "D. Njörd"],
         "answer": "B"
     },
+{
+        "question": "Quel est le nom du pont arc-en-ciel reliant Midgard à Asgard ?",
+        "choices": ["A. Gjallarbrú", "B. Yggdrasil", "C. Bifröst", "D. Vanaheim"],
+        "answer": "C"
+    },
     # ... ajoute toutes autres questions ici ...
 ]
 
