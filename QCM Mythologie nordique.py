@@ -26,6 +26,11 @@ questions = [
         "choices": ["A. Gjallarbrú", "B. Yggdrasil", "C. Bifröst", "D. Vanaheim"],
         "answer": "C"
     },
+{
+        "question": "Quel dieu est le gardien de Bifröst et possède une ouïe exceptionnelle ?",
+        "choices": ["A. Heimdall", "B. Baldr", "C. Hodr", "D. Bragi"],
+        "answer": "A"
+    },
     # ... ajoute toutes autres questions ici ...
 ]
 
