@@ -31,6 +31,11 @@ questions = [
         "choices": ["A. Heimdall", "B. Baldr", "C. Hodr", "D. Bragi"],
         "answer": "A"
     },
+{
+        "question": "Quel arbre relie les neuf mondes dans la cosmologie nordique ?",
+        "choices": ["A. Mímameiðr", "B. Yggdrasil", "C. Hoddmímis Holt", "D. Ask"],
+        "answer": "B"
+    },
     # ... ajoute toutes autres questions ici ...
 ]
 
