@@ -36,6 +36,11 @@ questions = [
         "choices": ["A. Mímameiðr", "B. Yggdrasil", "C. Hoddmímis Holt", "D. Ask"],
         "answer": "B"
     },
+{
+        "question": "Quel dieu nordique a sacrifié son œil pour obtenir la sagesse ?",
+        "choices": ["A. Tyr", "B. Odin", "C. Loki", "D. Freyr"],
+        "answer": "B"
+    },
     # ... ajoute toutes autres questions ici ...
 ]
 
