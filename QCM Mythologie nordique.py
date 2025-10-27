@@ -41,6 +41,11 @@ questions = [
         "choices": ["A. Tyr", "B. Odin", "C. Loki", "D. Freyr"],
         "answer": "B"
     },
+{
+        "question": "Quel dieu est tué par une flèche de gui, provoquant le début du Ragnarök ?",
+        "choices": ["A. Baldr", "B. Hodr", "C. Forseti", "D. Vidar"],
+        "answer": "A"
+    },
     # ... ajoute toutes autres questions ici ...
 ]
 
