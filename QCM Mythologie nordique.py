@@ -46,6 +46,11 @@ questions = [
         "choices": ["A. Baldr", "B. Hodr", "C. Forseti", "D. Vidar"],
         "answer": "A"
     },
+{
+        "question": "Quel dieu nordique est associé à la justice et au combat, et a perdu une main ?",
+        "choices": ["A. Bragi", "B. Tyr", "C. Njörd", "D. Ullr"],
+        "answer": "B"
+    },
     # ... ajoute toutes autres questions ici ...
 ]
 
