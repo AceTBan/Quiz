@@ -51,6 +51,11 @@ questions = [
         "choices": ["A. Bragi", "B. Tyr", "C. Njörd", "D. Ullr"],
         "answer": "B"
     },
+{
+        "question": "Quel est le nom du serpent qui entoure le monde dans la mythologie nordique ?",
+        "choices": ["A. Níðhöggr", "B. Fafnir", "C. Jörmungandr", "D. Garm"],
+        "answer": "C"
+    },
     # ... ajoute toutes autres questions ici ...
 ]
 
