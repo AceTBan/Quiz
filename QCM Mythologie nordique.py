@@ -56,6 +56,11 @@ questions = [
         "choices": ["A. Níðhöggr", "B. Fafnir", "C. Jörmungandr", "D. Garm"],
         "answer": "C"
     },
+{
+        "question": "Quel est le nom du royaume des morts gouverné par la déesse Hel ?",
+        "choices": ["A. Niflheim", "B. Muspelheim", "C. Vanaheim", "D. Alfheim"],
+        "answer": "A"
+    },
     # ... ajoute toutes autres questions ici ...
 ]
 
