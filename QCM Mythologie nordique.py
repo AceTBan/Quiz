@@ -61,6 +61,11 @@ questions = [
         "choices": ["A. Niflheim", "B. Muspelheim", "C. Vanaheim", "D. Alfheim"],
         "answer": "A"
     },
+{
+        "question": "Quel est le nom du géant de feu qui mènera les forces du chaos au Ragnarök ?",
+        "choices": ["A. Surtr", "B. Hrungnir", "C. Thrym", "D. Ymir"],
+        "answer": "A"
+    },
     # ... ajoute toutes autres questions ici ...
 ]
 
