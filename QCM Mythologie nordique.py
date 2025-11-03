@@ -66,6 +66,11 @@ questions = [
         "choices": ["A. Surtr", "B. Hrungnir", "C. Thrym", "D. Ymir"],
         "answer": "A"
     },
+{
+        "question": "Quel dieu est le père de Thor ?",
+        "choices": ["A. Loki", "B. Odin", "C. Njörd", "D. Baldr"],
+        "answer": "B"
+    },
     # ... ajoute toutes autres questions ici ...
 ]
 
