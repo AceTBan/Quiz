@@ -71,6 +71,11 @@ questions = [
         "choices": ["A. Loki", "B. Odin", "C. Njörd", "D. Baldr"],
         "answer": "B"
     },
+{
+        "question": "Quel est le nom du navire géant fait d’ongles humains qui apparaîtra au Ragnarök ?",
+        "choices": ["A. Skidbladnir", "B. Naglfar", "C. Hringhorni", "D. Drakkar"],
+        "answer": "B"
+    },
     # ... ajoute toutes autres questions ici ...
 ]
 
