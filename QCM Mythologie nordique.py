@@ -76,6 +76,11 @@ questions = [
         "choices": ["A. Skidbladnir", "B. Naglfar", "C. Hringhorni", "D. Drakkar"],
         "answer": "B"
     },
+{
+        "question": "Quel dieu nordique est associé à la poésie et à l’éloquence ?",
+        "choices": ["A. Bragi", "B. Forseti", "C. Heimdall", "D. Hodr"],
+        "answer": "A"
+    },
     # ... ajoute toutes autres questions ici ...
 ]
 
