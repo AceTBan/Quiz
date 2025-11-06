@@ -81,6 +81,11 @@ questions = [
         "choices": ["A. Bragi", "B. Forseti", "C. Heimdall", "D. Hodr"],
         "answer": "A"
     },
+{
+        "question": "Quel est le nom du monde des elfes lumineux ?",
+        "choices": ["A. Svartalfheim", "B. Alfheim", "C. Vanaheim", "D. Jotunheim"],
+        "answer": "B"
+    },
     # ... ajoute toutes autres questions ici ...
 ]
 
