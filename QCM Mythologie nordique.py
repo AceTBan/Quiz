@@ -86,6 +86,11 @@ questions = [
         "choices": ["A. Svartalfheim", "B. Alfheim", "C. Vanaheim", "D. Jotunheim"],
         "answer": "B"
     },
+{
+        "question": "Quel est le nom du géant primordial dont le corps a servi à créer le monde ?",
+        "choices": ["A. Surtr", "B. Ymir", "C. Thrym", "D. Búri"],
+        "answer": "B"
+    },
     # ... ajoute toutes autres questions ici ...
 ]
 
