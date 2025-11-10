@@ -48,7 +48,7 @@ questions = [
     },
 		{
         "question": "Toyohisa Shimazu est mort à quel âge ?",
-        "choices": ["A. 30", "B. 40", "C. 50", "D. 50"],
+        "choices": ["A. 30", "B. 40", "C. 50", "D. 60"],
         "answer": "A"
     },
 		{
@@ -162,8 +162,7 @@ questions = [
         },
 
 #Hannibal Barca 
-				{
-    "questions": [
+
         {
             "question": "Hannibal Barca est célèbre pour avoir traversé quelle chaîne de montagnes avec ses éléphants ?",
             "choices": ["A. Les Andes", "B. Les Pyrénées", "C. Les Alpes", "D. Les Apennins"],
@@ -216,8 +215,6 @@ questions = [
         },
 #Sundance kid 
 
-{
-    "questions": [
         {
             "question": "Quel était le vrai nom de Sundance Kid ?",
             "choices": ["A. Harry Alonzo Longabaugh", "B. Robert Leroy Parker", "C. Harvey Logan", "D. Ben Kilpatrick"],
@@ -269,8 +266,6 @@ questions = [
             "answer": "B"
         },
 # Jeanne d'Arc 
-{
-    "questions": [
         {
             "question": "En quelle année Jeanne d'Arc est-elle née ?",
             "choices": ["A. 1402", "B. 1412", "C. 1422", "D. 1432"],
@@ -322,8 +317,6 @@ questions = [
             "answer": "C"
         },
 # gilles de rais 
-{
-    "questions": [
         {
             "question": "Quel était le titre de noblesse de Gilles de Rais ?",
             "choices": ["A. Duc de Bretagne", "B. Baron de Retz", "C. Comte d'Anjou", "D. Prince de Poitiers"],
@@ -373,10 +366,8 @@ questions = [
             "question": "Dans quelle ville Gilles de Rais a-t-il été exécuté ?",
             "choices": ["A. Paris", "B. Nantes", "C. Orléans", "D. Bordeaux"],
             "answer": "B"
-        }
+        },
 # Akechi Mitsubishi 
-{
-    "questions": [
         {
             "question": "Akechi Mitsuhide est célèbre pour avoir trahi quel daimyo japonais ?",
             "choices": ["A. Tokugawa Ieyasu", "B. Takeda Shingen", "C. Oda Nobunaga", "D. Uesugi Kenshin"],
@@ -428,8 +419,6 @@ questions = [
             "answer": "B"
         },
 # li Naomasa 
-{
-    "questions": [
         {
             "question": "Ii Naomasa était un général sous quel shogun japonais ?",
             "choices": ["A. Oda Nobunaga", "B. Toyotomi Hideyoshi", "C. Tokugawa Ieyasu", "D. Takeda Shingen"],
@@ -481,8 +470,6 @@ questions = [
             "answer": "A"
         },
 # Minamoto no yoshitsune
-{
-    "questions": [
         {
             "question": "Minamoto no Yoshitsune était le demi-frère de quel célèbre shogun ?",
             "choices": ["A. Minamoto no Yoritomo", "B. Ashikaga Takauji", "C. Tokugawa Ieyasu", "D. Oda Nobunaga"],
@@ -534,8 +521,7 @@ questions = [
             "answer": "A"
         },
 # naoshi kanno
-{
-    "questions": [
+
         {
             "question": "Naoshi Kanno était un pilote de chasse pour quelle branche militaire japonaise ?",
             "choices": ["A. Armée impériale japonaise", "B. Marine impériale japonaise", "C. Force aérienne impériale", "D. Garde impériale"],
@@ -587,8 +573,7 @@ questions = [
             "answer": "B"
         },
 # butch Cassidy 
-{
-    "questions": [
+
         {
             "question": "Quel était le vrai nom de Butch Cassidy ?",
             "choices": ["A. Harry Alonzo Longabaugh", "B. Robert Leroy Parker", "C. Jesse James", "D. William H. Bonney"],
@@ -640,8 +625,6 @@ questions = [
             "answer": "D"
         },
 # Raspoutine 
-{
-    "questions": [
         {
             "question": "Quelle était la profession principale de Grigori Raspoutine avant d'acquérir de l'influence à la cour impériale russe ?",
             "choices": ["A. Moine", "B. Paysan", "C. Médecin", "D. Militaire"],
@@ -693,30 +676,50 @@ questions = [
             "answer": "B"
         }
     ]
-}
+
     # Ajoutez plus de questions ici
-]
+
+
 
 # Fonction pour poser les questions
-def poser_questions():
+def poser_questions(questions):
     score = 0
-    for q in questions:
-        print(q["question"])
+    # Sélectionner 10 questions aléatoires
+    quiz = random.sample(questions, 10)
+    print("\n--- Début du quiz ---\n")
+    
+    for i, q in enumerate(quiz, 1):
+        print(f"Question {i}: {q['question']}")
         for choice in q["choices"]:
-            print(choice)
-        answer = input("Entrez la lettre de votre réponse : ").upper()
+            print(f"   {choice}")
+        
+        # Extraire les lettres valides (A, B, C, D...)
+        valid_choices = [c[0] for c in q["choices"]]
+        answer = ""
+        while answer not in valid_choices:
+            answer = input("Entrez la lettre de votre réponse : ").strip().upper()
+            if answer not in valid_choices:
+                print("Réponse invalide. Choisissez parmi :", ", ".join(valid_choices))
+        
         if answer == q["answer"]:
             score += 1
-            print("Bonne réponse !\n")
+            print("✅ Bonne réponse !\n")
         else:
-            print("Mauvaise réponse.\n")
+            print(f"❌ Mauvaise réponse. La bonne réponse était : {q['answer']}\n")
+    
+    print("--- Fin du quiz ---\n")
     return score
 
-# Fonction principale
 def main():
-    print("Bienvenue au Quiz Historique !")
-    score = poser_questions()
-    print(f"Votre score final est : {score}/{len(questions)}")
+    print("🎓 Bienvenue au Quiz Historique !")
+    while True:
+        score = poser_questions(questions)
+        print(f"Votre score final est : {score}/10 ({(score/10)*100:.1f}%)")
+        
+        rejouer = input("Souhaitez-vous rejouer ? (O/N) : ").strip().upper()
+        if rejouer != "O":
+            print("Merci d'avoir joué ! À bientôt 👋")
+            break
 
 if __name__ == "__main__":
     main()
