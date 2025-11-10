@@ -6,8 +6,103 @@ questions = [
         "choices": ["A. Poséidon", "B. Hadès", "C. Apollon", "D. Zeus"],
         "answer": "D"
     },
+{
+        "question": "Qui est la déesse de la sagesse et de la guerre stratégique ?",
+        "choices": ["A. Héra", "B. Artémis", "C. Athéna", "D. Aphrodite"],
+        "answer": "C"
+    },
+{
+        "question": "Quel héros a tué le Minotaure dans le labyrinthe de Crète ?",
+        "choices": ["A. Héraclès", "B. Thésée", "C. Persée", "D. Jason"],
+        "answer": "B"
+    },
+{
+        "question": "Quel dieu est associé au soleil, à la musique et à la divination ?",
+        "choices": ["A. Dionysos", "B. Hermès", "C. Apollon", "D. Arès"],
+        "answer": "C"
+    },
+{
+        "question": "Quelle créature mythologique possède un corps de lion, une tête humaine et des ailes ?",
+        "choices": ["A. Chimère", "B. Sphinx", "C. Griffon", "D. Harpie"],
+        "answer": "B"
+    },
+{
+        "question": "Qui est le dieu des enfers dans la mythologie grecque ?",
+        "choices": ["A. Hadès", "B. Chronos", "C. Pan", "D. Héphaïstos"],
+        "answer": "A"
+    },
+{
+        "question": "Quel héros a accompli douze travaux imposés par Eurysthée ?",
+        "choices": ["A. Achille", "B. Ulysse", "C. Héraclès", "D. Orphée"],
+        "answer": "C"
+    },
+{
+        "question": "Qui est la déesse de l’amour et de la beauté ?",
+        "choices": ["A. Hestia", "B. Déméter", "C. Athéna", "D. Aphrodite"],
+        "answer": "D"
+    },
+{
+        "question": "Quel titan est le père de Zeus, Poséidon et Hadès ?",
+        "choices": ["A. Ouranos", "B. Chronos", "C. Prométhée", "D. Océan"],
+        "answer": "B"
+    },
+{
+        "question": "Quel héros grec est connu pour son voyage semé d’embûches après la guerre de Troie ?",
+        "choices": ["A. Ulysse", "B. Hector", "C. Achille", "D. Agamemnon"],
+        "answer": "A"
+    },
+{
+        "question": "Qui est le dieu grec du sommeil, souvent représenté avec des ailes sur les tempes ?",
+        "choices": ["A. Hypnos", "B. Thanatos", "C. Morpheus", "D. Phobos"],
+        "answer": "A"
+    },
+{
+        "question": "Quel dieu est le jumeau de Hypnos et incarne la mort paisible ?",
+        "choices": ["A. Chronos", "B. Thanatos", "C. Erebus", "D. Hélios"],
+        "answer": "B"
+    },
+{
+        "question": "Quel dieu mineur est le père des rêves et des illusions ?",
+        "choices": ["A. Morpheus", "B. Oneiros", "C. Phantasos", "D. Somnus"],
+        "answer": "A"
+    },
+{
+        "question": "Quel dieu grec est associé aux portes et aux transitions, souvent invoqué au seuil des maisons ?",
+        "choices": ["A. Janus", "B. Hécate", "C. Hermès", "D. Aucun, Janus est romain"],
+        "answer": "D"
+    },
+{
+        "question": "Quel dieu primordial représente les ténèbres avant la création ?",
+        "choices": ["A. Chaos", "B. Nyx", "C. Erebus", "D. Tartare"],
+        "answer": "C"
+    },
+{
+        "question": "Quelle créature possède une tête de lion, une tête de chèvre et une queue de serpent ?",
+        "choices": ["A. Chimère", "B. Hydre", "C. Sphinx", "D. Gorgone"],
+        "answer": "A"
+    },
+{
+        "question": "Quel héros a vaincu la Chimère avec l’aide de Pégase ?",
+        "choices": ["A. Persée", "B. Bellérophon", "C. Thésée", "D. Héraclès"],
+        "answer": "B"
+    },
+{
+        "question": "Quelle créature féminine attire les marins avec son chant pour les faire sombrer ?",
+        "choices": ["A. Harpie", "B. Nymphe", "C. Sirène", "D. Satyre"],
+        "answer": "C"
+    },
+{
+        "question": "Quel monstre marin envoyé par Poséidon a été vaincu par Persée ?",
+        "choices": ["A. Scylla", "B. Charybde", "C. Kraken", "D. Céto"],
+        "answer": "D"
+    },
+{
+        "question": "Quel géant cyclope a été aveuglé par Ulysse ?",
+        "choices": ["A. Brontès", "B. Arges", "C. Polyphème", "D. Gygès"],
+        "answer": "C"
+    },
 
-    # ... ajoute ici toutes tes autres questions ...
+    # ... ajoute toutes autres questions ici ...
 ]
 
 def poser_questions(questions):
