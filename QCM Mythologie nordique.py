@@ -91,6 +91,11 @@ questions = [
         "choices": ["A. Surtr", "B. Ymir", "C. Thrym", "D. Búri"],
         "answer": "B"
     },
+{
+        "question": "Quel dieu survivra au Ragnarök et vengera la mort d’Odin ?",
+        "choices": ["A. Vidar", "B. Magni", "C. Baldr", "D. Forseti"],
+        "answer": "A"
+    },
     # ... ajoute toutes autres questions ici ...
 ]
 
