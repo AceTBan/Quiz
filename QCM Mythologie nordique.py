@@ -96,6 +96,12 @@ questions = [
         "choices": ["A. Vidar", "B. Magni", "C. Baldr", "D. Forseti"],
         "answer": "A"
     },
+{
+        "question": "Quel est le nom du chaudron magique qui ressuscite les guerriers tombés au combat ?",
+        "choices": ["A. Gjallarhorn", "B. Eldhrímnir", "C. Hrímfaxi", "D. Aucun, c’est le Valhalla qui les accueille"],
+        "answer": "D"
+    }
+]
     # ... ajoute toutes autres questions ici ...
 ]
 
