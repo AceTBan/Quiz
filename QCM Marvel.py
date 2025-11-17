@@ -6,6 +6,11 @@ questions = [
         "choices": ["A. Howard Stark", "B. Tony Stark", "C. James Stark", "D. Steve Stark"],
         "answer": "B"
     },
+{
+        "question": "Quel est le nom de l’IA qui remplace J.A.R.V.I.S. dans Iron Man 3 ?",
+        "choices": ["A. FRIDAY", "B. EDITH", "C. KAREN", "D. PEPPER"],
+        "answer": "A"
+    },
     # ... ajoute toutes autres questions ici ...
 ]
 
