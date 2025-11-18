@@ -11,6 +11,11 @@ questions = [
         "choices": ["A. FRIDAY", "B. EDITH", "C. KAREN", "D. PEPPER"],
         "answer": "A"
     },
+{
+        "question": "Quel est le nom du scientifique qui devient le Mandarin dans Iron Man 3 ?",
+        "choices": ["A. Aldrich Killian", "B. Obadiah Stane", "C. Trevor Slattery", "D. Justin Hammer"],
+        "answer": "A"
+    },
     # ... ajoute toutes autres questions ici ...
 ]
 
