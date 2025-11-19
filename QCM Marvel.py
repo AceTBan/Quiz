@@ -16,6 +16,11 @@ questions = [
         "choices": ["A. Aldrich Killian", "B. Obadiah Stane", "C. Trevor Slattery", "D. Justin Hammer"],
         "answer": "A"
     },
+{
+        "question": "Quel mutant est connu pour ses griffes en adamantium ?",
+        "choices": ["A. Cyclope", "B. Magneto", "C. Wolverine", "D. Deadpool"],
+        "answer": "C"
+    },
     # ... ajoute toutes autres questions ici ...
 ]
 
