@@ -21,6 +21,11 @@ questions = [
         "choices": ["A. Cyclope", "B. Magneto", "C. Wolverine", "D. Deadpool"],
         "answer": "C"
     },
+{
+        "question": "Quel personnage est capable de régénération quasi instantanée et adore briser le 4e mur ?",
+        "choices": ["A. Cable", "B. Deadpool", "C. Domino", "D. Colossus"],
+        "answer": "B"
+    },
     # ... ajoute toutes autres questions ici ...
 ]
 
