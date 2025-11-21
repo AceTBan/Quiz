@@ -26,6 +26,11 @@ questions = [
         "choices": ["A. Cable", "B. Deadpool", "C. Domino", "D. Colossus"],
         "answer": "B"
     },
+{
+        "question": "Quel est le nom du sorcier suprême avant Doctor Strange ?",
+        "choices": ["A. Wong", "B. Mordo", "C. L’Ancien", "D. Agatha"],
+        "answer": "C"
+    },
     # ... ajoute toutes autres questions ici ...
 ]
 
