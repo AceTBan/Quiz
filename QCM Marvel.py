@@ -31,6 +31,11 @@ questions = [
         "choices": ["A. Wong", "B. Mordo", "C. L’Ancien", "D. Agatha"],
         "answer": "C"
     },
+{
+        "question": "Quel artefact permet à Doctor Strange de manipuler le temps ?",
+        "choices": ["A. Le Cube Cosmique", "B. L’Œil d’Agamotto", "C. Le Sceptre de Loki", "D. Le Bâton de Watoomb"],
+        "answer": "B"
+    },
     # ... ajoute toutes autres questions ici ...
 ]
 
