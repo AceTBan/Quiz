@@ -36,6 +36,11 @@ questions = [
         "choices": ["A. Le Cube Cosmique", "B. L’Œil d’Agamotto", "C. Le Sceptre de Loki", "D. Le Bâton de Watoomb"],
         "answer": "B"
     },
+{
+        "question": "Quel est le nom du monde miroir utilisé par les sorciers dans Doctor Strange ?",
+        "choices": ["A. Mirrorverse", "B. Dimension Astrale", "C. Monde Miroir", "D. Dark Dimension"],
+        "answer": "C"
+    },
     # ... ajoute toutes autres questions ici ...
 ]
 
