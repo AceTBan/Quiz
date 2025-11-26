@@ -41,6 +41,11 @@ questions = [
         "choices": ["A. Mirrorverse", "B. Dimension Astrale", "C. Monde Miroir", "D. Dark Dimension"],
         "answer": "C"
     },
+{
+        "question": "Quel est le nom du méchant principal dans Doctor Strange (2016) ?",
+        "choices": ["A. Dormammu", "B. Kaecilius", "C. Mordo", "D. Mephisto"],
+        "answer": "B"
+    },
     # ... ajoute toutes autres questions ici ...
 ]
 
