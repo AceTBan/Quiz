@@ -46,6 +46,11 @@ questions = [
         "choices": ["A. Dormammu", "B. Kaecilius", "C. Mordo", "D. Mephisto"],
         "answer": "B"
     },
+{
+        "question": "Quel personnage est le père de Star-Lord dans Les Gardiens de la Galaxie Vol. 2 ?",
+        "choices": ["A. Yondu", "B. Ego", "C. Rocket", "D. Thanos"],
+        "answer": "B"
+    },
     # ... ajoute toutes autres questions ici ...
 ]
 
