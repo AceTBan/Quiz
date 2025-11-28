@@ -51,6 +51,11 @@ questions = [
         "choices": ["A. Yondu", "B. Ego", "C. Rocket", "D. Thanos"],
         "answer": "B"
     },
+{
+        "question": "Quel est le vrai nom de Star-Lord ?",
+        "choices": ["A. Peter Quill", "B. Chris Pratt", "C. Jason Quill", "D. Peter Stark"],
+        "answer": "A"
+    },
     # ... ajoute toutes autres questions ici ...
 ]
 
