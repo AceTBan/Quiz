@@ -56,6 +56,11 @@ questions = [
         "choices": ["A. Peter Quill", "B. Chris Pratt", "C. Jason Quill", "D. Peter Stark"],
         "answer": "A"
     },
+{
+        "question": "Quel membre des Gardiens est un arbre humanoïde ?",
+        "choices": ["A. Drax", "B. Rocket", "C. Groot", "D. Mantis"],
+        "answer": "C"
+    },
     # ... ajoute toutes autres questions ici ...
 ]
 
