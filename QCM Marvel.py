@@ -61,6 +61,11 @@ questions = [
         "choices": ["A. Drax", "B. Rocket", "C. Groot", "D. Mantis"],
         "answer": "C"
     },
+{
+        "question": "Quel est le nom du raton laveur génétiquement modifié dans les Gardiens ?",
+        "choices": ["A. Rocket", "B. Raccoon", "C. Blaster", "D. Sniper"],
+        "answer": "A"
+    },
     # ... ajoute toutes autres questions ici ...
 ]
 
