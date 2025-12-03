@@ -66,6 +66,11 @@ questions = [
         "choices": ["A. Rocket", "B. Raccoon", "C. Blaster", "D. Sniper"],
         "answer": "A"
     },
+{
+        "question": "Quel méchant cherche à réunir les Pierres d’Infinité ?",
+        "choices": ["A. Ultron", "B. Loki", "C. Thanos", "D. Red Skull"],
+        "answer": "C"
+    },
     # ... ajoute toutes autres questions ici ...
 ]
 
