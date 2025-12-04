@@ -71,6 +71,11 @@ questions = [
         "choices": ["A. Ultron", "B. Loki", "C. Thanos", "D. Red Skull"],
         "answer": "C"
     },
+{
+        "question": "Combien de pierres d’infinité existe-t-il dans le MCU ?",
+        "choices": ["A. 4", "B. 5", "C. 6", "D. 7"],
+        "answer": "C"
+    },
     # ... ajoute toutes autres questions ici ...
 ]
 
