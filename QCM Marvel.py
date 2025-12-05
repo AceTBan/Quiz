@@ -76,6 +76,11 @@ questions = [
         "choices": ["A. 4", "B. 5", "C. 6", "D. 7"],
         "answer": "C"
     },
+{
+        "question": "Quel Avenger dit à Thanos : « Je suis Iron Man » avant de claquer des doigts ?",
+        "choices": ["A. Thor", "B. Captain America", "C. Hulk", "D. Tony Stark"],
+        "answer": "D"
+    },
     # ... ajoute toutes autres questions ici ...
 ]
 
