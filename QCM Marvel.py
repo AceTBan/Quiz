@@ -81,6 +81,11 @@ questions = [
         "choices": ["A. Thor", "B. Captain America", "C. Hulk", "D. Tony Stark"],
         "answer": "D"
     },
+{
+        "question": "Quel personnage est le maître de Latveria dans les comics et pourrait rejoindre le MCU ?",
+        "choices": ["A. Red Skull", "B. Doctor Doom", "C. Kang", "D. Ultron"],
+        "answer": "B"
+    },
     # ... ajoute toutes autres questions ici ...
 ]
 
