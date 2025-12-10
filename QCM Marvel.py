@@ -86,6 +86,11 @@ questions = [
         "choices": ["A. Red Skull", "B. Doctor Doom", "C. Kang", "D. Ultron"],
         "answer": "B"
     },
+{
+        "question": "Quel mutant est souvent opposé à Wolverine et contrôle le métal ?",
+        "choices": ["A. Sabretooth", "B. Magneto", "C. Mystique", "D. Pyro"],
+        "answer": "B"
+    },
     # ... ajoute toutes autres questions ici ...
 ]
 
