@@ -123,7 +123,7 @@ def poser_questions(questions):
     return score
 
 def main():
-    print("🎓 Bienvenue au Quiz Historique !")
+    print("🎓 Bienvenue au Quiz sur le Marcel Cinématique Univers !")
     while True:
         score = poser_questions(questions)
         print(f"Votre score final est : {score}/10 ({(score/10)*100:.1f}%)")
