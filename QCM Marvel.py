@@ -91,6 +91,11 @@ questions = [
         "choices": ["A. Sabretooth", "B. Magneto", "C. Mystique", "D. Pyro"],
         "answer": "B"
     },
+    {
+        "question": "Quel personnage est joué par Benedict Cumberbatch dans le MCU ?",
+        "choices": ["A. Loki", "B. Doctor Strange", "C. Vision", "D. Kang"],
+        "answer": "B"
+    },
     # ... ajoute toutes autres questions ici ...
 ]
 
